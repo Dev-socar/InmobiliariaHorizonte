@@ -1,0 +1,59 @@
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.pasos{
+    @include m.contenedor;
+    margin-top: 8rem;
+    &__titulo{
+        text-align: center;
+        @include m.tablet {
+            text-align: left
+        }
+    }
+
+    &__grid{
+        @include m.grid(1,1rem);
+        @include m.tablet {
+            @include m.grid(2,1rem);
+        }
+        @include m.desktop {
+            @include m.grid(4,2rem);
+        }
+    }
+}
+
+.paso{
+    padding: 2rem;
+    border-radius: 1rem;
+    background-color: v.$azul-500;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    text-align: center;
+   
+    transition: all .3s ease;
+    &:hover{
+        background-color: v.$blanco;
+    }
+    &:hover &__icono,
+    &:hover &__titulo,
+    &:hover &__texto{
+        color: v.$azul-600;
+    }
+
+    &__icono{
+        font-size: 5rem;
+        color: v.$blanco;
+    }
+    &__titulo{
+        font-weight: v.$delgada;
+        color: v.$blanco;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        
+    }
+    &__texto{
+        color: v.$azul-100;
+        font-size: 1.6rem;
+        text-align: justify;
+        margin: 0;
+    }
+}

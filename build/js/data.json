@@ -1,0 +1,5618 @@
+{
+  "venta": [
+    {
+      "id_agent": "583fc20fd863b0000123f686",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/da5f33259897350f0a7f7c18a4c44ea2l-m1953170496s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T19:41:37Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "community_outdoor_space",
+        "community_security_features",
+        "dining_room",
+        "family_room",
+        "forced_air",
+        "hardwood_floors",
+        "laundry_room",
+        "washer_dryer",
+        "basement",
+        "two_or_more_stories",
+        "garage_1_or_more",
+        "master_suite"
+      ],
+      "permalink": "10448-Somerset-Ave_Detroit_MI_48224_M38830-13059",
+      "status": "for_sale",
+      "list_date": "2022-01-07T00:42:13Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "618A60D6DC8C366A6B4BF4402895AF98"
+      },
+      "branding": [
+        {
+          "name": "National Realty Centers Birmingham",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/da5f33259897350f0a7f7c18a4c44ea2l-m1953170496s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/da5f33259897350f0a7f7c18a4c44ea2l-m2607926113s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": "2022-01-07",
+      "list_price": 135000,
+      "type": "single_family",
+      "matterport": false,
+      "property_id": "3883013059",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": true,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "co_broke"],
+        "brand_name": "basic_opt_in"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1938,
+        "baths_3qtr": null,
+        "sold_date": "2019-04-10",
+        "sold_price": 43000,
+        "baths_full": 2,
+        "name": null,
+        "baths_half": 1,
+        "lot_sqft": 5227,
+        "sqft": 1843,
+        "baths": 3,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 1,
+        "stories": 2,
+        "beds": 4
+      },
+      "listing_id": "2938715491",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48224",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -82.948047,
+            "lat": 42.417368
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "10448 Somerset Ave"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=10448%20Somerset%20Ave%2C%20Detroit%2C%20MI%2048224&size=640x480&source=outdoor&signature=VO6rVfpJ7ssIDMHwZn709XkBNFI=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938715491",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "616132005",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "513525937",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "508991329",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56bb8a597e54f7010021a8af",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/2047703111/4ab066eb96b8db7ebfcacbd454d608e3l-m0s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T19:12:17Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": ["city_view", "view"],
+      "permalink": "1736-Baldwin-St_Detroit_MI_48214_M35260-69312",
+      "status": "for_sale",
+      "list_date": "2022-01-07T00:16:03Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "0B6195F6DB6BCB334E4A983204B5D518"
+      },
+      "branding": [
+        {
+          "name": "Premier Property Services Llc",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/2047703111/4ab066eb96b8db7ebfcacbd454d608e3l-m0s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 24900,
+      "type": "land",
+      "matterport": false,
+      "property_id": "3526069312",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "core.broker"],
+        "brand_name": "essentials"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": null,
+        "baths_3qtr": null,
+        "sold_date": null,
+        "sold_price": "Not Price",
+        "baths_full": null,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": 4356,
+        "sqft": 0,
+        "baths": 0,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 0,
+        "stories": null,
+        "beds": 0
+      },
+      "listing_id": "2540711249",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48214",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.001702,
+            "lat": 42.356155
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "1736 Baldwin St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1736%20Baldwin%20St%2C%20Detroit%2C%20MI%2048214&size=640x480&source=outdoor&signature=cP_IxU0imuHAXUAHk1Hok8kMMKI=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2540711249",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56d65114f384a201005f452a",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/5b13106bf133c943ad7c0ee3006520a7l-m2559058367s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T18:37:26Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "fireplace",
+        "forced_air",
+        "hardwood_floors",
+        "basement",
+        "two_or_more_stories",
+        "garage_1_or_more"
+      ],
+      "permalink": "10606-McKinney-St_Detroit_MI_48224_M30764-91455",
+      "status": "for_sale",
+      "list_date": "2022-01-06T23:06:06Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "07D3F6BF284FDD170531EB873AEBE2D0"
+      },
+      "branding": [
+        {
+          "name": "Lindenmuth Realty Llc",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/5b13106bf133c943ad7c0ee3006520a7l-m2559058367s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/5b13106bf133c943ad7c0ee3006520a7l-m476584535s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 39900,
+      "type": "single_family",
+      "matterport": false,
+      "property_id": "3076491455",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "co_broke"],
+        "brand_name": "basic_opt_in"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1942,
+        "baths_3qtr": null,
+        "sold_date": "1999-07-14",
+        "sold_price": 69900,
+        "baths_full": 1,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": 4356,
+        "sqft": 1030,
+        "baths": 1,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 1,
+        "stories": 2,
+        "beds": 3
+      },
+      "listing_id": "2938712714",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48224",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -82.943213,
+            "lat": 42.419794
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "10606 McKinney St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=10606%20McKinney%20St%2C%20Detroit%2C%20MI%2048224&size=640x480&source=outdoor&signature=2Jggee8PIeuKa9P2C-wajWPlfCs=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938712714",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "2919813710",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "2906985493",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "520555757",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "520577049",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "518678089",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56d5a0a0de071e010062b9a5",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/1b9a6f1b5edd73973756c4dd85c61ee8l-m2505381750s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T17:36:29Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "dining_room",
+        "forced_air",
+        "basement",
+        "two_or_more_stories",
+        "garage_1_or_more",
+        "garage_2_or_more"
+      ],
+      "permalink": "17250-Patton-St_Detroit_MI_48219_M49310-63275",
+      "status": "for_sale",
+      "list_date": "2022-01-06T22:33:12Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "828F9857DEAE9E217A2C51AD853486D1"
+      },
+      "branding": [
+        {
+          "name": "Adams & Associates Realty Group, LLC",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/1b9a6f1b5edd73973756c4dd85c61ee8l-m2505381750s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/1b9a6f1b5edd73973756c4dd85c61ee8l-m4142834666s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 80000,
+      "type": "single_family",
+      "matterport": false,
+      "property_id": "4931063275",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "co_broke"],
+        "brand_name": "basic_opt_in"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1938,
+        "baths_3qtr": null,
+        "sold_date": "2006-11-17",
+        "sold_price": 110000,
+        "baths_full": 1,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": 5663,
+        "sqft": 1152,
+        "baths": 1,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 2,
+        "stories": 2,
+        "beds": 3
+      },
+      "listing_id": "2938711703",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48219",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.244504,
+            "lat": 42.417146
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "17250 Patton St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=17250%20Patton%20St%2C%20Detroit%2C%20MI%2048219&size=640x480&source=outdoor&signature=iQHjx0LtGkTZvVCoO0v2e_Rhnrs=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938711703",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "600101729",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56d5a0a0de071e010062b9a5",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/e0d8b3ae33ecd560600774c72d260d23l-m3779499619s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T17:26:07Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "carport",
+        "community_clubhouse",
+        "community_outdoor_space",
+        "community_security_features",
+        "den_or_office",
+        "dining_room",
+        "dishwasher",
+        "family_room",
+        "hardwood_floors",
+        "laundry_room",
+        "recreation_facilities",
+        "river_view",
+        "view",
+        "washer_dryer",
+        "water_view",
+        "community_swimming_pool",
+        "two_or_more_stories",
+        "granite_kitchen",
+        "kitchen_island",
+        "high_ceiling",
+        "floor_plan",
+        "exposed_brick",
+        "ensuite"
+      ],
+      "permalink": "6533-E-Jefferson-Ave-Apt-408_Detroit_MI_48207_M91223-95314",
+      "status": "for_sale",
+      "list_date": "2022-01-06T21:57:13Z",
+      "open_houses": null,
+      "tax_record": null,
+      "branding": [
+        {
+          "name": "Berkshire Hathaway HomeServices The Loft Warehouse",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/e0d8b3ae33ecd560600774c72d260d23l-m3779499619s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/e0d8b3ae33ecd560600774c72d260d23l-m2750875860s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 280000,
+      "type": "condos",
+      "matterport": false,
+      "property_id": "9122395314",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "core.broker", "co_broke"],
+        "brand_name": "essentials"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1906,
+        "baths_3qtr": null,
+        "sold_date": null,
+        "sold_price": "Not Price",
+        "baths_full": 2,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": null,
+        "sqft": 1275,
+        "baths": 2,
+        "sub_type": "condo",
+        "baths_1qtr": null,
+        "garage": 0,
+        "stories": 2,
+        "beds": 1
+      },
+      "listing_id": "2938710170",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48207",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.006453,
+            "lat": 42.34536
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "6533 E Jefferson Ave Apt 408"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=6533%20E%20Jefferson%20Ave%20Apt%20408%2C%20Detroit%2C%20MI%2048207&size=640x480&source=outdoor&signature=IMsvUK4lpVU2Ehunej36JCwItFk=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938710170",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "2920081740",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "2915863037",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "2914642926",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56d65114f384a201005f452a",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/831f3cb015785f26b21aefdc4f000d67l-m4260168840s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T15:34:46Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": "Good Company"
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "central_air",
+        "community_security_features",
+        "corner_lot",
+        "dishwasher",
+        "forced_air",
+        "new_construction",
+        "basement",
+        "two_or_more_stories"
+      ],
+      "permalink": "8233-John-R-St_Detroit_MI_48202_M94847-12216",
+      "status": "for_sale",
+      "list_date": "2022-01-06T20:36:38Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "557627F43088578D3732A21E1A943712"
+      },
+      "branding": [
+        {
+          "name": "Good Company",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/831f3cb015785f26b21aefdc4f000d67l-m4260168840s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/831f3cb015785f26b21aefdc4f000d67l-m1531476748s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 235000,
+      "type": "townhomes",
+      "matterport": false,
+      "property_id": "9484712216",
+      "flags": {
+        "is_new_construction": true,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "co_broke"],
+        "brand_name": "basic_opt_in"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 2019,
+        "baths_3qtr": null,
+        "sold_date": null,
+        "sold_price": "Not Price",
+        "baths_full": 1,
+        "name": null,
+        "baths_half": 1,
+        "lot_sqft": null,
+        "sqft": 1120,
+        "baths": 2,
+        "sub_type": "townhouse",
+        "baths_1qtr": null,
+        "garage": 0,
+        "stories": 2,
+        "beds": 2
+      },
+      "listing_id": "2938705903",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48202",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.074701,
+            "lat": 42.376162
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "8233 John R St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=8233%20John%20R%20St%2C%20Detroit%2C%20MI%2048202&size=640x480&source=outdoor&signature=r04wkaSNtYTK7vrvA1mpGoWvZKg=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938705903",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "2935014749",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "2930155979",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56d65114f384a201005f452a",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/d9c4e451df8b1080b939f5979166e946l-m3192769492s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T15:26:42Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "dining_room",
+        "forced_air",
+        "basement",
+        "two_or_more_stories",
+        "garage_1_or_more",
+        "garage_2_or_more",
+        "fixer_upper"
+      ],
+      "permalink": "8088-Smart-St_Detroit_MI_48210_M43122-23812",
+      "status": "for_sale",
+      "list_date": "2022-01-06T20:30:44Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "AC5AD9DFE86E5B71D6C3FEB709945376"
+      },
+      "branding": [
+        {
+          "name": "Helping Hands Realty, LLC",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/d9c4e451df8b1080b939f5979166e946l-m3192769492s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/d9c4e451df8b1080b939f5979166e946l-m220102656s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 26000,
+      "type": "single_family",
+      "matterport": false,
+      "property_id": "4312223812",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "co_broke"],
+        "brand_name": "basic_opt_in"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1924,
+        "baths_3qtr": null,
+        "sold_date": "2001-09-24",
+        "sold_price": 45400,
+        "baths_full": 1,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": 3485,
+        "sqft": 840,
+        "baths": 1,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 2,
+        "stories": 2,
+        "beds": 4
+      },
+      "listing_id": "2938705584",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48210",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.148293,
+            "lat": 42.338567
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "8088 Smart St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=8088%20Smart%20St%2C%20Detroit%2C%20MI%2048210&size=640x480&source=outdoor&signature=tG14vfddeLof5WWqZUrCPIhU26w=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938705584",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "2936579320",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "534952457",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "527727741",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "583fc20fd863b0000123f686",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/b94ba64806d7b46007f96d11ce26ef8al-m1789099253s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T15:28:04Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "central_air",
+        "community_security_features",
+        "corner_lot",
+        "dishwasher",
+        "forced_air",
+        "new_construction",
+        "basement",
+        "two_or_more_stories"
+      ],
+      "permalink": "112-Mount-Vernon-St_Detroit_MI_48202_M94987-62336",
+      "status": "for_sale",
+      "list_date": "2022-01-06T20:30:44Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "8713FE79671D57E85C3C2F2DEE488BE8"
+      },
+      "branding": [
+        {
+          "name": "Good Company",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/b94ba64806d7b46007f96d11ce26ef8al-m1789099253s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/b94ba64806d7b46007f96d11ce26ef8al-m1531476748s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 240000,
+      "type": "townhomes",
+      "matterport": false,
+      "property_id": "9498762336",
+      "flags": {
+        "is_new_construction": true,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "co_broke"],
+        "brand_name": "basic_opt_in"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 2019,
+        "baths_3qtr": null,
+        "sold_date": null,
+        "sold_price": "Not Price",
+        "baths_full": 1,
+        "name": null,
+        "baths_half": 1,
+        "lot_sqft": null,
+        "sqft": 1120,
+        "baths": 2,
+        "sub_type": "townhouse",
+        "baths_1qtr": null,
+        "garage": 0,
+        "stories": 2,
+        "beds": 2
+      },
+      "listing_id": "2938705581",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48202",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.075561,
+            "lat": 42.376019
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "112 Mount Vernon St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=112%20Mount%20Vernon%20St%2C%20Detroit%2C%20MI%2048202&size=640x480&source=outdoor&signature=eDDHo2hCMQggCkD4igNNlIxnDJg=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938705581",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "2935014724",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "2930154361",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "2934859188",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "583fc20fd863b0000123f686",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/3c932adc97646da63d645ddc4313939al-m4260168840s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T15:25:04Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "central_air",
+        "community_security_features",
+        "corner_lot",
+        "dishwasher",
+        "forced_air",
+        "hardwood_floors",
+        "new_construction",
+        "basement",
+        "two_or_more_stories",
+        "open_floor_plan",
+        "floor_plan"
+      ],
+      "permalink": "8007-John-R-St_Detroit_MI_48202_M92192-44880",
+      "status": "for_sale",
+      "list_date": "2022-01-06T20:30:44Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "4BA3FDF33C5E397117D865314BF5736B"
+      },
+      "branding": [
+        {
+          "name": "Good Company",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/3c932adc97646da63d645ddc4313939al-m4260168840s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/3c932adc97646da63d645ddc4313939al-m1531476748s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 229000,
+      "type": "townhomes",
+      "matterport": false,
+      "property_id": "9219244880",
+      "flags": {
+        "is_new_construction": true,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "co_broke"],
+        "brand_name": "basic_opt_in"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 2019,
+        "baths_3qtr": null,
+        "sold_date": null,
+        "sold_price": "Not Price",
+        "baths_full": 1,
+        "name": null,
+        "baths_half": 1,
+        "lot_sqft": null,
+        "sqft": 1120,
+        "baths": 2,
+        "sub_type": "townhouse",
+        "baths_1qtr": null,
+        "garage": 0,
+        "stories": 2,
+        "beds": 2
+      },
+      "listing_id": "2938705582",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48202",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.073893,
+            "lat": 42.374978
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "8007 John R St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=8007%20John%20R%20St%2C%20Detroit%2C%20MI%2048202&size=640x480&source=outdoor&signature=qoizqpx7DjEnrADdOldDwZTncOs=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938705582",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "2935010398",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "2922968578",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "583fc20fd863b0000123f686",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/751b3d148833ce6285e33ad23dafea99l-m1614723681s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T15:20:24Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "fireplace",
+        "forced_air",
+        "basement",
+        "single_story",
+        "garage_1_or_more"
+      ],
+      "permalink": "17142-Pembroke-Ave_Detroit_MI_48235_M47577-73493",
+      "status": "for_sale",
+      "list_date": "2022-01-06T20:25:28Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "0290BE5685639496CC237AC4D686A992"
+      },
+      "branding": [
+        {
+          "name": "KW Metro",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/751b3d148833ce6285e33ad23dafea99l-m1614723681s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/751b3d148833ce6285e33ad23dafea99l-m310760661s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 75000,
+      "type": "single_family",
+      "matterport": false,
+      "property_id": "4757773493",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "core.broker", "co_broke"],
+        "brand_name": "essentials"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1950,
+        "baths_3qtr": null,
+        "sold_date": "2005-02-16",
+        "sold_price": 80000,
+        "baths_full": 1,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": 3485,
+        "sqft": 1000,
+        "baths": 1,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 1,
+        "stories": 1,
+        "beds": 3
+      },
+      "listing_id": "2938705483",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48235",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.213061,
+            "lat": 42.437628
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "17142 Pembroke Ave"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=17142%20Pembroke%20Ave%2C%20Detroit%2C%20MI%2048235&size=640x480&source=outdoor&signature=OrgCmaSUiH8Aja1YEsA2NYMV1Bo=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938705483",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "2934580943",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "518597713",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "511609429",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "511690661",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "511141185",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "501677417",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56bb8a597e54f7010021a8af",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/c2c628d4650425d454e8c1f939888bc6l-m1789099253s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T15:21:10Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "central_air",
+        "community_security_features",
+        "corner_lot",
+        "dishwasher",
+        "forced_air",
+        "hardwood_floors",
+        "new_construction",
+        "basement",
+        "two_or_more_stories",
+        "open_floor_plan",
+        "floor_plan"
+      ],
+      "permalink": "100-Marston-St_Detroit_MI_48202_M48506-61344",
+      "status": "for_sale",
+      "list_date": "2022-01-06T20:25:28Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "0477587F73BD50DB74B5D4617D1F4F57"
+      },
+      "branding": [
+        {
+          "name": "Good Company",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/c2c628d4650425d454e8c1f939888bc6l-m1789099253s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/c2c628d4650425d454e8c1f939888bc6l-m1531476748s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 229000,
+      "type": "townhomes",
+      "matterport": false,
+      "property_id": "4850661344",
+      "flags": {
+        "is_new_construction": true,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "co_broke"],
+        "brand_name": "basic_opt_in"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 2019,
+        "baths_3qtr": null,
+        "sold_date": null,
+        "sold_price": "Not Price",
+        "baths_full": 1,
+        "name": null,
+        "baths_half": 1,
+        "lot_sqft": null,
+        "sqft": 1120,
+        "baths": 2,
+        "sub_type": "townhouse",
+        "baths_1qtr": null,
+        "garage": 0,
+        "stories": 2,
+        "beds": 2
+      },
+      "listing_id": "2938705317",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48202",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.074437,
+            "lat": 42.375339
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "100 Marston St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=100%20Marston%20St%2C%20Detroit%2C%20MI%2048202&size=640x480&source=outdoor&signature=pTNf7BS4dMjYHWFzmDaFKihLsKA=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938705317",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "2935010192",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56bb8a597e54f7010021a8af",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/751b3d148833ce6285e33ad23dafea99l-m1614723681s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T15:14:33Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "central_air",
+        "community_outdoor_space",
+        "dining_room",
+        "dishwasher",
+        "family_room",
+        "fireplace",
+        "forced_air",
+        "washer_dryer",
+        "basement",
+        "two_or_more_stories",
+        "garage_1_or_more",
+        "garage_2_or_more",
+        "modern_kitchen",
+        "large_kitchen"
+      ],
+      "permalink": "16861-Manor-St_Detroit_MI_48221_M44539-81010",
+      "status": "for_sale",
+      "list_date": "2022-01-06T20:18:27Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "DD63FD4DAC792F3C68F57C606442CF33"
+      },
+      "branding": [
+        {
+          "name": "MAX BROOCK, REALTORS-BIRMINGHAM",
+          "photo": "https://ap.rdcpix.com/266155423/1900e9bb348985c31e898d3e285e1840o-c0s.jpg",
+          "type": "Office"
+        }
+      ],
+      "photos": null,
+      "coming_soon_date": "2022-01-10",
+      "list_price": 140000,
+      "type": "single_family",
+      "matterport": false,
+      "property_id": "4453981010",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": true,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "advantage_pro"
+      },
+      "community": null,
+      "products": {
+        "products": [
+          "core.agent",
+          "core.broker",
+          "listing_owner_lead.broker",
+          "listing_owner_brand.broker"
+        ],
+        "brand_name": "advantage_pro"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1938,
+        "baths_3qtr": null,
+        "sold_date": null,
+        "sold_price": "Not Price",
+        "baths_full": 1,
+        "name": null,
+        "baths_half": 2,
+        "lot_sqft": 3485,
+        "sqft": 1586,
+        "baths": 3,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 2,
+        "stories": 2,
+        "beds": 3
+      },
+      "listing_id": "2938705183",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48221",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.169224,
+            "lat": 42.415189
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "16861 Manor St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=16861%20Manor%20St%2C%20Detroit%2C%20MI%2048221&size=640x480&source=outdoor&signature=7ejzoZ7dfpFBYagZSMEbmJylIcA=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938705183",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56bb8a597e54f7010021a8af",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/d9adf253836047d7323fdebef99ad7b1l-m3423420514s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T15:11:32Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": "Community Choice Realty Inc"
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "forced_air",
+        "laundry_room",
+        "basement",
+        "two_or_more_stories",
+        "garage_1_or_more",
+        "garage_2_or_more",
+        "rental_property"
+      ],
+      "permalink": "8401-Heyden-St_Detroit_MI_48228_M40535-85729",
+      "status": "for_sale",
+      "list_date": "2022-01-06T20:12:35Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "BCAD06CD0DDFEA7917FEA31BE7472A1A"
+      },
+      "branding": [
+        {
+          "name": "Community Choice Realty Inc",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/d9adf253836047d7323fdebef99ad7b1l-m3423420514s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/d9adf253836047d7323fdebef99ad7b1l-m1536314304s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 59999,
+      "type": "single_family",
+      "matterport": false,
+      "property_id": "4053585729",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "core.broker", "co_broke"],
+        "brand_name": "essentials"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1951,
+        "baths_3qtr": null,
+        "sold_date": "2004-12-29",
+        "sold_price": 58000,
+        "baths_full": 1,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": 5663,
+        "sqft": 906,
+        "baths": 1,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 2,
+        "stories": 2,
+        "beds": 3
+      },
+      "listing_id": "2938704867",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48228",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.238609,
+            "lat": 42.354029
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "8401 Heyden St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=8401%20Heyden%20St%2C%20Detroit%2C%20MI%2048228&size=640x480&source=outdoor&signature=TMIC4Z4rNfacFeDhCde9Dt40uHQ=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938704867",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "547151785",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "514658385",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "514659005",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "513036841",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "514062949",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "510379373",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "501053641",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "501053645",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56d5a0a0de071e010062b9a5",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/be18e8f664446fd8bd492634964c8d23l-m2736735574s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T15:03:59Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": "Reserve Management Company"
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "forced_air",
+        "hardwood_floors",
+        "basement",
+        "two_or_more_stories",
+        "rental_property",
+        "investment_opportunity"
+      ],
+      "permalink": "9444-Wayburn-St_Detroit_MI_48224_M33777-97973",
+      "status": "for_sale",
+      "list_date": "2022-01-06T20:06:12Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "FF48B11F51E55E5CF443669EF17E030B"
+      },
+      "branding": [
+        {
+          "name": "Reserve Management Company",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/be18e8f664446fd8bd492634964c8d23l-m2736735574s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 49000,
+      "type": "single_family",
+      "matterport": false,
+      "property_id": "3377797973",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "core.broker", "co_broke"],
+        "brand_name": "essentials"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1938,
+        "baths_3qtr": null,
+        "sold_date": "2009-04-24",
+        "sold_price": 60500,
+        "baths_full": 1,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": 4792,
+        "sqft": 1161,
+        "baths": 1,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 0,
+        "stories": 2,
+        "beds": 3
+      },
+      "listing_id": "2931298655",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48224",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -82.959184,
+            "lat": 42.409431
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "9444 Wayburn St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=9444%20Wayburn%20St%2C%20Detroit%2C%20MI%2048224&size=640x480&source=outdoor&signature=EZ0TtrDPCcqQw7x7WbitEPr8MDE=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2931298655",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "615630657",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "2914246328",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "587708125",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "563792237",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "509864937",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56d5a0a0de071e010062b9a5",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/0fd8ce8e24c2099456cfcff136f56fd8l-m2584340095s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T14:50:50Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": "Detroit Progress Realty LLC"
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "fireplace",
+        "forced_air",
+        "basement",
+        "two_or_more_stories",
+        "garage_1_or_more",
+        "garage_2_or_more"
+      ],
+      "permalink": "8484-Plainview-Ave_Detroit_MI_48228_M35795-25337",
+      "status": "for_sale",
+      "list_date": "2022-01-06T19:48:31Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "FB919D7C6FAE5B818A636BD1FB9E28A6"
+      },
+      "branding": [
+        {
+          "name": "Detroit Progress Realty LLC",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/0fd8ce8e24c2099456cfcff136f56fd8l-m2584340095s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/0fd8ce8e24c2099456cfcff136f56fd8l-m4119126106s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 58000,
+      "type": "single_family",
+      "matterport": false,
+      "property_id": "3579525337",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "co_broke"],
+        "brand_name": "basic_opt_in"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1948,
+        "baths_3qtr": null,
+        "sold_date": null,
+        "sold_price": "Not Price",
+        "baths_full": 1,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": 6534,
+        "sqft": 1008,
+        "baths": 1,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 2,
+        "stories": 2,
+        "beds": 3
+      },
+      "listing_id": "2938703796",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48228",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.234271,
+            "lat": 42.35521
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "8484 Plainview Ave"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=8484%20Plainview%20Ave%2C%20Detroit%2C%20MI%2048228&size=640x480&source=outdoor&signature=WaCj0PUVNvFUPLAkYW6bvCFo94k=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938703796",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "593474517",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56d5a0a0de071e010062b9a5",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/0cc3e538d9dd29edf32f8e8afeb494f1l-m3349836354s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T14:32:02Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": null,
+      "permalink": "13202-Caldwell-St_Hamtramck_MI_48212_M32239-17050",
+      "status": "for_sale",
+      "list_date": "2022-01-06T19:33:54Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "038886320543C15B57CA4908FA843EFD"
+      },
+      "branding": [
+        {
+          "name": "Keller Williams Legacy",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/0cc3e538d9dd29edf32f8e8afeb494f1l-m3349836354s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 5000,
+      "type": "land",
+      "matterport": false,
+      "property_id": "3223917050",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "core.broker"],
+        "brand_name": "essentials"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": null,
+        "baths_3qtr": null,
+        "sold_date": null,
+        "sold_price": "Not Price",
+        "baths_full": null,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": 3485,
+        "sqft": 0,
+        "baths": 0,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 0,
+        "stories": null,
+        "beds": 0
+      },
+      "listing_id": "2938702485",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48212",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.046302,
+            "lat": 42.414097
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "13202 Caldwell St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=13202%20Caldwell%20St%2C%20Detroit%2C%20MI%2048212&size=640x480&source=outdoor&signature=ZSiOTtTp-Rm2WSRwkb3mjOCuQu0=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938702485",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56bb8a597e54f7010021a8af",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/4792548f6f8891b577df43a2cd241f1al-m1758239229s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T14:18:53Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "den_or_office",
+        "dining_room",
+        "fireplace",
+        "hardwood_floors",
+        "basement",
+        "two_or_more_stories",
+        "garage_1_or_more",
+        "garage_2_or_more",
+        "master_bedroom",
+        "library",
+        "furniture"
+      ],
+      "permalink": "13544-Monica-St_Detroit_MI_48238_M40277-46979",
+      "status": "for_sale",
+      "list_date": "2022-01-06T19:21:22Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "850B25108F5D05842203FD1E70EDED24"
+      },
+      "branding": [
+        {
+          "name": "RE/MAX LEADING EDGE",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/4792548f6f8891b577df43a2cd241f1al-m1758239229s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/4792548f6f8891b577df43a2cd241f1al-m3694836659s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 119990,
+      "type": "single_family",
+      "matterport": false,
+      "property_id": "4027746979",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "core.broker", "co_broke"],
+        "brand_name": "essentials"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1922,
+        "baths_3qtr": null,
+        "sold_date": "2007-07-17",
+        "sold_price": 19500,
+        "baths_full": 1,
+        "name": null,
+        "baths_half": 1,
+        "lot_sqft": 3920,
+        "sqft": 1694,
+        "baths": 2,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 2,
+        "stories": 2,
+        "beds": 3
+      },
+      "listing_id": "2938701960",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48238",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.142511,
+            "lat": 42.387193
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "13544 Monica St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=13544%20Monica%20St%2C%20Detroit%2C%20MI%2048238&size=640x480&source=outdoor&signature=ht_e0ZtiZ-HjgbqXOntGIi7Carc=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938701960",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "2936220469",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "614968997",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56bb8a597e54f7010021a8af",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/7c7f7907083bb22fc60a9ebea2c52026l-m1531652957s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T14:16:59Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": "RE/MAX Leading Edge"
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "dining_room",
+        "fireplace",
+        "forced_air",
+        "basement",
+        "two_or_more_stories",
+        "garage_1_or_more",
+        "master_bedroom",
+        "rental_property"
+      ],
+      "permalink": "14435-Bringard-Dr_Detroit_MI_48205_M48430-92386",
+      "status": "for_sale",
+      "list_date": "2022-01-06T19:18:37Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "7806DB10DE0C8A15D2E50F196E85CDC7"
+      },
+      "branding": [
+        {
+          "name": "RE/MAX LEADING EDGE",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/7c7f7907083bb22fc60a9ebea2c52026l-m1531652957s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/7c7f7907083bb22fc60a9ebea2c52026l-m3434229879s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 56990,
+      "type": "single_family",
+      "matterport": false,
+      "property_id": "4843092386",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "core.broker", "co_broke"],
+        "brand_name": "essentials"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1951,
+        "baths_3qtr": null,
+        "sold_date": "2008-12-09",
+        "sold_price": 21100,
+        "baths_full": 2,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": 4356,
+        "sqft": 1229,
+        "baths": 2,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 1,
+        "stories": 2,
+        "beds": 3
+      },
+      "listing_id": "2938701784",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48205",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -82.974925,
+            "lat": 42.446352
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "14435 Bringard Dr"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=14435%20Bringard%20Dr%2C%20Detroit%2C%20MI%2048205&size=640x480&source=outdoor&signature=t0nsXEjK3A4_Irf2o3RUd2y_bJo=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938701784",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "2936205980",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56bb8a597e54f7010021a8af",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/ba34a904bd5796fc1008d46e6b919680l-m3363365591s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T14:16:29Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": "RE/MAX Leading Edge"
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "dining_room",
+        "forced_air",
+        "basement",
+        "two_or_more_stories",
+        "garage_1_or_more",
+        "rental_property"
+      ],
+      "permalink": "8358-Lauder-St_Detroit_MI_48228_M39988-38054",
+      "status": "for_sale",
+      "list_date": "2022-01-06T19:18:37Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "09B3A4B62CA7D1FF16B8F4D5976C44BD"
+      },
+      "branding": [
+        {
+          "name": "RE/MAX LEADING EDGE",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/ba34a904bd5796fc1008d46e6b919680l-m3363365591s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 46990,
+      "type": "single_family",
+      "matterport": false,
+      "property_id": "3998838054",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "core.broker", "co_broke"],
+        "brand_name": "essentials"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1936,
+        "baths_3qtr": null,
+        "sold_date": null,
+        "sold_price": "Not Price",
+        "baths_full": 1,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": 4356,
+        "sqft": 1077,
+        "baths": 1,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 1,
+        "stories": 2,
+        "beds": 2
+      },
+      "listing_id": "2938701786",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48228",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.189137,
+            "lat": 42.355801
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "8358 Lauder St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=8358%20Lauder%20St%2C%20Detroit%2C%20MI%2048228&size=640x480&source=outdoor&signature=pjLQ8NLSBTXApwwHgGtXw5fys5Y=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938701786",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "2936783342",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "583fc20fd863b0000123f686",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/b3dcb6ce7150bac36cd8576c77db379al-m1896624857s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T14:11:42Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": "Detroit Progress Realty LLC"
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "dining_room",
+        "basement",
+        "two_or_more_stories",
+        "garage_1_or_more",
+        "garage_2_or_more"
+      ],
+      "permalink": "15863-La-Salle-Blvd_Detroit_MI_48238_M49291-97532",
+      "status": "for_sale",
+      "list_date": "2022-01-06T19:09:27Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "201F558A19E1F593CE659FC9B5F03527"
+      },
+      "branding": [
+        {
+          "name": "Detroit Progress Realty LLC",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/b3dcb6ce7150bac36cd8576c77db379al-m1896624857s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/b3dcb6ce7150bac36cd8576c77db379al-m3496160834s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 42000,
+      "type": "single_family",
+      "matterport": false,
+      "property_id": "4929197532",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "co_broke"],
+        "brand_name": "basic_opt_in"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1926,
+        "baths_3qtr": null,
+        "sold_date": null,
+        "sold_price": "Not Price",
+        "baths_full": 1,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": 3920,
+        "sqft": 1500,
+        "baths": 1,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 2,
+        "stories": 2,
+        "beds": 3
+      },
+      "listing_id": "2938701484",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48238",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.125459,
+            "lat": 42.40876
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "15863 LA Salle Blvd"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=15863%20LA%20Salle%20Blvd%2C%20Detroit%2C%20MI%2048238&size=640x480&source=outdoor&signature=w5cWHYBDzTOeJ0bsNZExsYcAKGw=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938701484",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "583fc20fd863b0000123f686",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/ca95ed382db0cdd8354d0e7dc4ea3f8fl-m2195029832s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T14:07:40Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": [
+        "dining_room",
+        "forced_air",
+        "basement",
+        "two_or_more_stories",
+        "garage_1_or_more",
+        "big_lot"
+      ],
+      "permalink": "15171-Auburn-St_Detroit_MI_48223_M48452-88448",
+      "status": "for_sale",
+      "list_date": "2022-01-06T19:09:27Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "39D1A9E02B7495A1F24E0E1394615B30"
+      },
+      "branding": [
+        {
+          "name": "Reach Realty Group, Llc",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/ca95ed382db0cdd8354d0e7dc4ea3f8fl-m2195029832s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/ca95ed382db0cdd8354d0e7dc4ea3f8fl-m1641292173s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 115000,
+      "type": "single_family",
+      "matterport": false,
+      "property_id": "4845288448",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "core.broker", "co_broke"],
+        "brand_name": "essentials"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": 1951,
+        "baths_3qtr": null,
+        "sold_date": "2018-10-11",
+        "sold_price": 70000,
+        "baths_full": 1,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": 6098,
+        "sqft": 1090,
+        "baths": 1,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 1,
+        "stories": 2,
+        "beds": 3
+      },
+      "listing_id": "2938701483",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48223",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.235369,
+            "lat": 42.400552
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "15171 Auburn St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=15171%20Auburn%20St%2C%20Detroit%2C%20MI%2048223&size=640x480&source=outdoor&signature=efoUyIbEws_uRoOqcGdgZMkmR2M=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2938701483",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          },
+          {
+            "listing_id": "615842381",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "579797625",
+            "listing_key": null,
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      }
+    },
+    {
+      "id_agent": "56d65114f384a201005f452a",
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/46d5f7a210b0f5947d446e3e93e95773l-m817692105s-w1024_h768.jpg"
+      },
+      "last_update_date": "2022-01-06T14:10:00Z",
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "DEMI",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "tags": null,
+      "permalink": "14657-Chapel-St_Detroit_MI_48223_M37935-84243",
+      "status": "for_sale",
+      "list_date": "2022-01-06T19:09:27Z",
+      "open_houses": null,
+      "tax_record": {
+        "public_record_id": "D9FE0A9B6594C0D8C633DDDA42DFC59F"
+      },
+      "branding": [
+        {
+          "name": "Bellabay Realty Tri Counties",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/46d5f7a210b0f5947d446e3e93e95773l-m817692105s-w1024_h768.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/46d5f7a210b0f5947d446e3e93e95773l-m3609643412s-w1024_h768.jpg"
+        }
+      ],
+      "coming_soon_date": null,
+      "list_price": 5600,
+      "type": "land",
+      "matterport": false,
+      "property_id": "3793584243",
+      "flags": {
+        "is_new_construction": null,
+        "is_subdivision": null,
+        "is_plan": null,
+        "is_price_reduced": null,
+        "is_pending": null,
+        "is_foreclosure": null,
+        "is_new_listing": true,
+        "is_coming_soon": null,
+        "is_contingent": null
+      },
+      "lead_attributes": {
+        "show_contact_an_agent": true,
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": false,
+          "cashback_enabled": false
+        },
+        "lead_type": "co_broke"
+      },
+      "community": null,
+      "products": {
+        "products": ["core.agent", "core.broker"],
+        "brand_name": "essentials"
+      },
+      "virtual_tours": null,
+      "description": {
+        "year_built": null,
+        "baths_3qtr": null,
+        "sold_date": null,
+        "sold_price": "Not Price",
+        "baths_full": null,
+        "name": null,
+        "baths_half": null,
+        "lot_sqft": 4356,
+        "sqft": 0,
+        "baths": 0,
+        "sub_type": null,
+        "baths_1qtr": null,
+        "garage": 0,
+        "stories": null,
+        "beds": 0
+      },
+      "listing_id": "2915549574",
+      "price_reduced_amount": null,
+      "location": {
+        "address": {
+          "postal_code": "48223",
+          "state": "Michigan",
+          "coordinate": {
+            "lon": -83.253327,
+            "lat": 42.39537
+          },
+          "city": "Detroit",
+          "state_code": "MI",
+          "line": "14657 Chapel St"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=14657%20Chapel%20St%2C%20Detroit%2C%20MI%2048223&size=640x480&source=outdoor&signature=TKaRmH6fP3M1Bv98_GaLnYUVaVU=",
+        "county": {
+          "fips_code": "26163",
+          "name": "Wayne"
+        }
+      },
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2915549574",
+            "listing_key": null,
+            "status": "for_sale",
+            "primary": true
+          }
+        ]
+      }
+    }
+  ],
+  "renta": [
+    {
+      "id_agent": "56d65114f384a201005f452a",
+      "photos": [
+        {
+          "title": null,
+          "description": null,
+          "tags": null,
+          "href": "https://ar.rdcpix.com/e0b63b1704b3f61e485ed237bbde1f48c-f2350983028s-w1024_h768.jpg",
+          "type": null
+        },
+        {
+          "title": null,
+          "description": null,
+          "tags": null,
+          "href": "https://ar.rdcpix.com/e0b63b1704b3f61e485ed237bbde1f48c-f693528349s-w1024_h768.jpg",
+          "type": null
+        },
+        {
+          "title": null,
+          "description": null,
+          "tags": null,
+          "href": "https://ar.rdcpix.com/e0b63b1704b3f61e485ed237bbde1f48c-f890792342s-w1024_h768.jpg",
+          "type": null
+        }
+      ],
+      "branding": {},
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "613503877",
+            "status": "for_rent",
+            "primary": true
+          },
+          {
+            "listing_id": "571390857",
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      },
+      "list_price_min": 1125,
+      "href": "https://www.realtor.com/realestateandhomes-detail/13010-Avondale-St_Detroit_MI_48215_M33726-90642",
+      "when_indexed": "2021-12-20T10:38:07.632Z",
+      "last_sold_price": null,
+      "property_id": "3372690642",
+      "type": "apartment",
+      "advertisers": [
+        {
+          "office": {
+            "phones": [
+              {
+                "trackable": null,
+                "number": null,
+                "ext": null,
+                "primary": false,
+                "type": "office"
+              },
+              {
+                "trackable": null,
+                "number": "8443047460",
+                "ext": null,
+                "primary": false,
+                "type": "primary"
+              },
+              {
+                "trackable": true,
+                "number": "8443047460",
+                "ext": null,
+                "primary": false,
+                "type": "primary"
+              }
+            ],
+            "lead_email": {
+              "to": "rentalservice@move.com",
+              "cc": null
+            },
+            "photo": null,
+            "name": "Princeton Management",
+            "fulfillment_id": null,
+            "href": null,
+            "mls_set": null,
+            "email": "rentalservice@move.com"
+          },
+          "broker": null,
+          "name": null,
+          "mls_set": null,
+          "email": null,
+          "nrds_id": null,
+          "type": "management",
+          "slogan": null,
+          "photo": null,
+          "href": null,
+          "phones": null,
+          "fulfillment_id": null
+        },
+        {
+          "office": {
+            "phones": [
+              {
+                "trackable": null,
+                "number": "8443047460",
+                "ext": null,
+                "primary": false,
+                "type": "office"
+              }
+            ],
+            "lead_email": null,
+            "photo": null,
+            "name": "Grayhaven Marina Village",
+            "fulfillment_id": null,
+            "href": null,
+            "mls_set": null,
+            "email": null
+          },
+          "broker": null,
+          "name": null,
+          "mls_set": null,
+          "email": null,
+          "nrds_id": null,
+          "type": "community",
+          "slogan": null,
+          "photo": null,
+          "href": null,
+          "phones": null,
+          "fulfillment_id": null
+        }
+      ],
+      "virtual_tours": null,
+      "seller_promotion": null,
+      "listing_id": "613503877",
+      "price_reduced_amount": null,
+      "location": {
+        "county": {
+          "name": "Wayne",
+          "state_code": "MI",
+          "fips_code": "26163"
+        },
+        "address": {
+          "street_post_direction": null,
+          "street_number": "13010",
+          "state": "Michigan",
+          "street_suffix": "St",
+          "state_code": "MI",
+          "unit": null,
+          "postal_code": "48215",
+          "street_direction": null,
+          "street_name": "Avondale",
+          "country": "USA",
+          "coordinate": {
+            "lon": -82.9473,
+            "lat": 42.36224
+          },
+          "line": "13010 Avondale St",
+          "city": "Detroit"
+        },
+        "search_areas": [
+          {
+            "city": "detroit",
+            "state_code": "mi"
+          }
+        ],
+        "neighborhoods": [
+          {
+            "city": "Detroit",
+            "level": "neighborhood",
+            "name": "Jefferson Chalmers",
+            "state_code": "MI",
+            "id": "5e440480-3fd0-52b2-99b9-cb8e60ae8e1b"
+          }
+        ]
+      },
+      "last_update_date": "2021-12-10T02:20:45Z",
+      "source": {
+        "agents": null,
+        "community_id": 1861405,
+        "id": "CSTR",
+        "listing_id": "2qz3c4b",
+        "name": null,
+        "raw": null,
+        "type": "community"
+      },
+      "permalink": "13010-Avondale-St_Detroit_MI_48215_M33726-90642",
+      "list_date": "2021-09-16T23:39:33Z",
+      "open_houses": null,
+      "last_sold_date": null,
+      "last_price_change_date": null,
+      "description": {
+        "garage_max": null,
+        "sqft_min": 770,
+        "baths_partial_calc": null,
+        "baths_1qtr": null,
+        "beds_max": 2,
+        "lot_sqft": null,
+        "sub_type": null,
+        "garage": 0,
+        "baths_3qtr": null,
+        "garage_min": null,
+        "beds_min": 1,
+        "baths_min": 1,
+        "name": "Grayhaven Marina Village",
+        "baths_half": null,
+        "sqft": 0,
+        "year_built": 1988,
+        "baths": null,
+        "baths_full": null,
+        "sqft_max": 1237,
+        "baths_max": 2,
+        "baths_full_calc": null,
+        "beds": 0
+      },
+      "last_price_change_amount": null,
+      "price_reduced_date": null,
+      "property_history": null,
+      "photo_count": 10,
+      "list_price": null,
+      "lead_attributes": {
+        "show_contact_an_agent": true
+      },
+      "list_price_max": 1500,
+      "tags": [
+        "community_no_fee",
+        "community_elevator",
+        "community_gym",
+        "washer_dryer",
+        "central_air",
+        "forced_air",
+        "disability_features",
+        "dishwasher",
+        "pets_allowed",
+        "swimming_pool",
+        "garage_1_or_more",
+        "waterfront",
+        "tennis_court",
+        "river_view",
+        "clubhouse",
+        "tennis",
+        "marina"
+      ],
+      "pet_policy": {
+        "cats": true,
+        "dogs": true,
+        "dogs_large": false,
+        "dogs_small": false,
+        "text": null
+      },
+      "products": {
+        "products": ["showcase_community"],
+        "product_attributes": null
+      },
+      "suppression_flags": null,
+      "status": "for_rent",
+      "flags": {
+        "is_deal_available": null,
+        "is_senior_community": null,
+        "is_new_listing": false,
+        "is_for_rent": true,
+        "is_garage_present": null
+      },
+      "community": null,
+      "matterport": false,
+      "primary_photo": {
+        "href": "https://ar.rdcpix.com/e0b63b1704b3f61e485ed237bbde1f48c-f2350983028s-w1024_h768.jpg",
+        "type": null,
+        "description": null
+      }
+    },
+    {
+      "id_agent": "56bb8a597e54f7010021a8af",
+      "photos": [
+        {
+          "title": null,
+          "description": null,
+          "tags": null,
+          "href": "https://ar.rdcpix.com/e5b47522eaf89822777f0b02cf9ff6b5c-f1048435330s-w1024_h768.jpg",
+          "type": null
+        },
+        {
+          "title": null,
+          "description": null,
+          "tags": null,
+          "href": "https://ar.rdcpix.com/e5b47522eaf89822777f0b02cf9ff6b5c-f3943033228s-w1024_h768.jpg",
+          "type": null
+        },
+        {
+          "title": null,
+          "description": null,
+          "tags": null,
+          "href": "https://ar.rdcpix.com/e5b47522eaf89822777f0b02cf9ff6b5c-f1755875436s-w1024_h768.jpg",
+          "type": null
+        }
+      ],
+      "branding": {},
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "586193633",
+            "status": "for_rent",
+            "primary": true
+          }
+        ]
+      },
+      "list_price_min": 1285,
+      "href": "https://www.realtor.com/realestateandhomes-detail/538-594-N-Sherman-Dr_Royal-Oak_MI_48067_M44410-90110",
+      "when_indexed": "2022-01-04T05:22:55.808Z",
+      "last_sold_price": null,
+      "property_id": "4441090110",
+      "type": "apartment",
+      "advertisers": [
+        {
+          "office": {
+            "phones": [
+              {
+                "trackable": null,
+                "number": null,
+                "ext": null,
+                "primary": false,
+                "type": "office"
+              },
+              {
+                "trackable": null,
+                "number": "8558372829",
+                "ext": null,
+                "primary": false,
+                "type": "primary"
+              },
+              {
+                "trackable": true,
+                "number": "8558372829",
+                "ext": null,
+                "primary": false,
+                "type": "primary"
+              }
+            ],
+            "lead_email": {
+              "to": "rentalservice@move.com",
+              "cc": null
+            },
+            "photo": null,
+            "name": "Amber Properties Company",
+            "fulfillment_id": null,
+            "href": null,
+            "mls_set": null,
+            "email": "rentalservice@move.com"
+          },
+          "broker": null,
+          "name": null,
+          "mls_set": null,
+          "email": null,
+          "nrds_id": null,
+          "type": "management",
+          "slogan": null,
+          "photo": null,
+          "href": null,
+          "phones": null,
+          "fulfillment_id": null
+        },
+        {
+          "office": {
+            "phones": [
+              {
+                "trackable": null,
+                "number": "8558372829",
+                "ext": null,
+                "primary": false,
+                "type": "office"
+              }
+            ],
+            "lead_email": null,
+            "photo": null,
+            "name": "Amber Crossing",
+            "fulfillment_id": null,
+            "href": null,
+            "mls_set": null,
+            "email": null
+          },
+          "broker": null,
+          "name": null,
+          "mls_set": null,
+          "email": null,
+          "nrds_id": null,
+          "type": "community",
+          "slogan": null,
+          "photo": null,
+          "href": null,
+          "phones": null,
+          "fulfillment_id": null
+        }
+      ],
+      "virtual_tours": [
+        {
+          "href": "https://images1.apartments.com/i2/xQbjZrNIZmNT2zSunKgzyyU2Kp8Nmpqn96KWkhGsaGs/111/image.jpg"
+        }
+      ],
+      "seller_promotion": null,
+      "listing_id": "586193633",
+      "price_reduced_amount": null,
+      "location": {
+        "county": {
+          "name": "Oakland",
+          "state_code": "MI",
+          "fips_code": "26125"
+        },
+        "address": {
+          "street_post_direction": null,
+          "street_number": "538-594",
+          "state": "Michigan",
+          "street_suffix": "Dr",
+          "state_code": "MI",
+          "unit": null,
+          "postal_code": "48067",
+          "street_direction": "N",
+          "street_name": "Sherman",
+          "country": "USA",
+          "coordinate": {
+            "lon": -83.14987,
+            "lat": 42.49075
+          },
+          "line": "538-594 N Sherman Dr",
+          "city": "Royal Oak"
+        },
+        "search_areas": [
+          {
+            "city": "royal oak",
+            "state_code": "mi"
+          }
+        ],
+        "neighborhoods": null
+      },
+      "last_update_date": "2021-12-04T02:18:03Z",
+      "source": {
+        "agents": null,
+        "community_id": 1346659,
+        "id": "CSTR",
+        "listing_id": "q70rr9w",
+        "name": null,
+        "raw": null,
+        "type": "community"
+      },
+      "permalink": "538-594-N-Sherman-Dr_Royal-Oak_MI_48067_M44410-90110",
+      "list_date": "2021-09-16T23:39:33Z",
+      "open_houses": null,
+      "last_sold_date": null,
+      "last_price_change_date": null,
+      "description": {
+        "garage_max": null,
+        "sqft_min": 535,
+        "baths_partial_calc": null,
+        "baths_1qtr": null,
+        "beds_max": 3,
+        "lot_sqft": null,
+        "sub_type": null,
+        "garage": 0,
+        "baths_3qtr": null,
+        "garage_min": null,
+        "beds_min": 0,
+        "baths_min": 1,
+        "name": "Amber Crossing",
+        "baths_half": null,
+        "sqft": 0,
+        "year_built": 2010,
+        "baths": null,
+        "baths_full": null,
+        "sqft_max": 1519,
+        "baths_max": 1,
+        "baths_full_calc": null,
+        "beds": 0
+      },
+      "last_price_change_amount": null,
+      "price_reduced_date": null,
+      "property_history": null,
+      "photo_count": 13,
+      "list_price": null,
+      "lead_attributes": {
+        "show_contact_an_agent": true
+      },
+      "list_price_max": 2295,
+      "tags": [
+        "community_no_fee",
+        "community_elevator",
+        "washer_dryer",
+        "central_air",
+        "forced_air",
+        "dishwasher",
+        "hardwood_floors",
+        "pets_allowed",
+        "two_or_more_stories",
+        "garage_1_or_more",
+        "master_bedroom",
+        "floor_plan",
+        "master_suite",
+        "rental_property",
+        "shopping"
+      ],
+      "pet_policy": {
+        "cats": true,
+        "dogs": true,
+        "dogs_large": false,
+        "dogs_small": false,
+        "text": "No charge for permit."
+      },
+      "products": {
+        "products": ["showcase_community"],
+        "product_attributes": null
+      },
+      "suppression_flags": null,
+      "status": "for_rent",
+      "flags": {
+        "is_deal_available": null,
+        "is_senior_community": null,
+        "is_new_listing": false,
+        "is_for_rent": true,
+        "is_garage_present": null
+      },
+      "community": null,
+      "matterport": true,
+      "primary_photo": {
+        "href": "https://ar.rdcpix.com/e5b47522eaf89822777f0b02cf9ff6b5c-f1048435330s-w1024_h768.jpg",
+        "type": null,
+        "description": null
+      }
+    },
+    {
+      "id_agent": "583fc20fd863b0000123f686",
+      "photos": [
+        {
+          "title": null,
+          "description": null,
+          "tags": null,
+          "href": "https://ar.rdcpix.com/98d7dadedff3c06b6d3eccf892e53b29c-f1088616189s-w1024_h768.jpg",
+          "type": null
+        },
+        {
+          "title": null,
+          "description": null,
+          "tags": null,
+          "href": "https://ar.rdcpix.com/98d7dadedff3c06b6d3eccf892e53b29c-f1601910536s-w1024_h768.jpg",
+          "type": null
+        },
+        {
+          "title": null,
+          "description": null,
+          "tags": null,
+          "href": "https://ar.rdcpix.com/98d7dadedff3c06b6d3eccf892e53b29c-f89107969s-w1024_h768.jpg",
+          "type": null
+        }
+      ],
+      "branding": {},
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "585159881",
+            "status": "for_rent",
+            "primary": true
+          },
+          {
+            "listing_id": "569805977",
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "569805997",
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "569800373",
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "566806805",
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "557845837",
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "548794945",
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "573004801",
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "571056921",
+            "status": "off_market",
+            "primary": null
+          },
+          {
+            "listing_id": "571392405",
+            "status": "off_market",
+            "primary": null
+          }
+        ]
+      },
+      "list_price_min": 1310,
+      "href": "https://www.realtor.com/realestateandhomes-detail/100-Lincoln-Ln_Dearborn_MI_48126_M37353-27180",
+      "when_indexed": "2022-01-07T01:10:37.148Z",
+      "last_sold_price": null,
+      "property_id": "3735327180",
+      "type": "apartment",
+      "advertisers": [
+        {
+          "office": {
+            "phones": [
+              {
+                "trackable": null,
+                "number": null,
+                "ext": null,
+                "primary": false,
+                "type": "office"
+              },
+              {
+                "trackable": null,
+                "number": "8442014753",
+                "ext": null,
+                "primary": false,
+                "type": "primary"
+              },
+              {
+                "trackable": true,
+                "number": "8442014753",
+                "ext": null,
+                "primary": false,
+                "type": "primary"
+              }
+            ],
+            "lead_email": {
+              "to": "rentalservice@move.com",
+              "cc": null
+            },
+            "photo": null,
+            "name": "Village Green",
+            "fulfillment_id": null,
+            "href": null,
+            "mls_set": null,
+            "email": "rentalservice@move.com"
+          },
+          "broker": null,
+          "name": null,
+          "mls_set": null,
+          "email": null,
+          "nrds_id": null,
+          "type": "management",
+          "slogan": null,
+          "photo": null,
+          "href": null,
+          "phones": null,
+          "fulfillment_id": null
+        },
+        {
+          "office": {
+            "phones": [
+              {
+                "trackable": null,
+                "number": "8442014753",
+                "ext": null,
+                "primary": false,
+                "type": "office"
+              }
+            ],
+            "lead_email": null,
+            "photo": null,
+            "name": "Fairlane Town Center Apartment Homes",
+            "fulfillment_id": null,
+            "href": null,
+            "mls_set": null,
+            "email": null
+          },
+          "broker": null,
+          "name": null,
+          "mls_set": null,
+          "email": null,
+          "nrds_id": null,
+          "type": "community",
+          "slogan": null,
+          "photo": null,
+          "href": null,
+          "phones": null,
+          "fulfillment_id": null
+        }
+      ],
+      "virtual_tours": [
+        {
+          "href": "https://images1.apartments.com/i2/VZdnXhjOn56tMukNy-LzhWU9M-5Pc39lVUBIZf0bV10/111/image.jpg"
+        }
+      ],
+      "seller_promotion": null,
+      "listing_id": "585159881",
+      "price_reduced_amount": null,
+      "location": {
+        "county": {
+          "name": "Wayne",
+          "state_code": "MI",
+          "fips_code": "26163"
+        },
+        "address": {
+          "street_post_direction": null,
+          "street_number": "100",
+          "state": "Michigan",
+          "street_suffix": "Ln",
+          "state_code": "MI",
+          "unit": null,
+          "postal_code": "48126",
+          "street_direction": null,
+          "street_name": "Lincoln",
+          "country": "USA",
+          "coordinate": {
+            "lon": -83.220957,
+            "lat": 42.311658
+          },
+          "line": "100 Lincoln Ln",
+          "city": "Dearborn"
+        },
+        "search_areas": [
+          {
+            "city": "dearborn",
+            "state_code": "mi"
+          }
+        ],
+        "neighborhoods": [
+          {
+            "city": "Dearborn",
+            "level": "neighborhood",
+            "name": "Fairlane Town Center",
+            "state_code": "MI",
+            "id": "877616ff-99b5-5be9-87f2-3f18c13e33f8"
+          }
+        ]
+      },
+      "last_update_date": "2022-01-06T02:20:05Z",
+      "source": {
+        "agents": null,
+        "community_id": 1301683,
+        "id": "CSTR",
+        "listing_id": "32g8qkf",
+        "name": null,
+        "raw": null,
+        "type": "community"
+      },
+      "permalink": "100-Lincoln-Ln_Dearborn_MI_48126_M37353-27180",
+      "list_date": "2021-09-16T23:39:33Z",
+      "open_houses": null,
+      "last_sold_date": null,
+      "last_price_change_date": null,
+      "description": {
+        "garage_max": null,
+        "sqft_min": 657,
+        "baths_partial_calc": null,
+        "baths_1qtr": null,
+        "beds_max": 2,
+        "lot_sqft": null,
+        "sub_type": null,
+        "garage": 0,
+        "baths_3qtr": null,
+        "garage_min": null,
+        "beds_min": 1,
+        "baths_min": 1,
+        "name": "Fairlane Town Center Apartment Homes",
+        "baths_half": null,
+        "sqft": 0,
+        "year_built": 2002,
+        "baths": null,
+        "baths_full": null,
+        "sqft_max": 1605,
+        "baths_max": 2,
+        "baths_full_calc": null,
+        "beds": 0
+      },
+      "last_price_change_amount": null,
+      "price_reduced_date": null,
+      "property_history": null,
+      "photo_count": 30,
+      "list_price": null,
+      "lead_attributes": {
+        "show_contact_an_agent": true
+      },
+      "list_price_max": 2425,
+      "tags": [
+        "community_no_fee",
+        "central_air",
+        "forced_air",
+        "dishwasher",
+        "pets_allowed",
+        "community_gym",
+        "washer_dryer",
+        "fireplace",
+        "swimming_pool",
+        "garage_1_or_more",
+        "gourmet_kitchen",
+        "high_ceiling",
+        "maintenance"
+      ],
+      "pet_policy": {
+        "cats": true,
+        "dogs": true,
+        "dogs_large": false,
+        "dogs_small": false,
+        "text": "We welcome up to 2 pets per home. With an upfront pet fee of $250 and a refundable pet deposit of $150. The monthly pet fee for Cats is $30 per month per pet./We welcome up to 2 pets per home. With an upfront pet fee of $250 and a refundable pet deposit of $150. Monthly pet fee for Dogs 35lbs. or less is $35 per month per pet. Monthly pet fee for Dogs 35lbs.-75lbs. is $50 per month per pet."
+      },
+      "products": {
+        "products": ["showcase_community"],
+        "product_attributes": null
+      },
+      "suppression_flags": null,
+      "status": "for_rent",
+      "flags": {
+        "is_deal_available": null,
+        "is_senior_community": null,
+        "is_new_listing": false,
+        "is_for_rent": true,
+        "is_garage_present": null
+      },
+      "community": null,
+      "matterport": false,
+      "primary_photo": {
+        "href": "https://ar.rdcpix.com/98d7dadedff3c06b6d3eccf892e53b29c-f1088616189s-w1024_h768.jpg",
+        "type": null,
+        "description": null
+      }
+    },
+    {
+      "id_agent": "56d5a0a0de071e010062b9a5",
+      "photos": [
+        {
+          "title": null,
+          "description": null,
+          "tags": null,
+          "href": "https://ar.rdcpix.com/3ba491e88c46406fb29b8568503d9785c-f416873137s-w1024_h768.jpg",
+          "type": null
+        },
+        {
+          "title": null,
+          "description": null,
+          "tags": null,
+          "href": "https://ar.rdcpix.com/3ba491e88c46406fb29b8568503d9785c-f830468773s-w1024_h768.jpg",
+          "type": null
+        },
+        {
+          "title": null,
+          "description": null,
+          "tags": null,
+          "href": "https://ar.rdcpix.com/3ba491e88c46406fb29b8568503d9785c-f2200502686s-w1024_h768.jpg",
+          "type": null
+        }
+      ],
+      "branding": {},
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "613507193",
+            "status": "for_rent",
+            "primary": true
+          }
+        ]
+      },
+      "list_price_min": 2431,
+      "href": "https://www.realtor.com/realestateandhomes-detail/18012-Violet-Dr_Southfield_MI_48076_M42052-22527",
+      "when_indexed": "2022-01-06T05:38:38.269Z",
+      "last_sold_price": null,
+      "property_id": "4205222527",
+      "type": "apartment",
+      "advertisers": [
+        {
+          "office": {
+            "phones": [
+              {
+                "trackable": null,
+                "number": null,
+                "ext": null,
+                "primary": false,
+                "type": "office"
+              },
+              {
+                "trackable": null,
+                "number": "8448647417",
+                "ext": null,
+                "primary": false,
+                "type": "primary"
+              },
+              {
+                "trackable": true,
+                "number": "8448647417",
+                "ext": null,
+                "primary": false,
+                "type": "primary"
+              }
+            ],
+            "lead_email": {
+              "to": "rentalservice@move.com",
+              "cc": null
+            },
+            "photo": null,
+            "name": "Lombardo Apartments",
+            "fulfillment_id": null,
+            "href": null,
+            "mls_set": null,
+            "email": "rentalservice@move.com"
+          },
+          "broker": null,
+          "name": null,
+          "mls_set": null,
+          "email": null,
+          "nrds_id": null,
+          "type": "management",
+          "slogan": null,
+          "photo": null,
+          "href": null,
+          "phones": null,
+          "fulfillment_id": null
+        },
+        {
+          "office": {
+            "phones": [
+              {
+                "trackable": null,
+                "number": "8448647417",
+                "ext": null,
+                "primary": false,
+                "type": "office"
+              }
+            ],
+            "lead_email": null,
+            "photo": null,
+            "name": "Spring Haven 605",
+            "fulfillment_id": null,
+            "href": null,
+            "mls_set": null,
+            "email": null
+          },
+          "broker": null,
+          "name": null,
+          "mls_set": null,
+          "email": null,
+          "nrds_id": null,
+          "type": "community",
+          "slogan": null,
+          "photo": null,
+          "href": null,
+          "phones": null,
+          "fulfillment_id": null
+        }
+      ],
+      "virtual_tours": null,
+      "seller_promotion": null,
+      "listing_id": "613507193",
+      "price_reduced_amount": null,
+      "location": {
+        "county": {
+          "name": "Oakland",
+          "state_code": "MI",
+          "fips_code": "26125"
+        },
+        "address": {
+          "street_post_direction": null,
+          "street_number": "18012",
+          "state": "Michigan",
+          "street_suffix": "Dr",
+          "state_code": "MI",
+          "unit": null,
+          "postal_code": "48076",
+          "street_direction": null,
+          "street_name": "Violet",
+          "country": "USA",
+          "coordinate": {
+            "lon": -83.22102,
+            "lat": 42.5099
+          },
+          "line": "18012 Violet Dr",
+          "city": "Southfield"
+        },
+        "search_areas": [
+          {
+            "city": "southfield",
+            "state_code": "mi"
+          }
+        ],
+        "neighborhoods": null
+      },
+      "last_update_date": "2022-01-06T02:20:05Z",
+      "source": {
+        "agents": null,
+        "community_id": 3219404,
+        "id": "CSTR",
+        "listing_id": "j07t9w7",
+        "name": null,
+        "raw": null,
+        "type": "community"
+      },
+      "permalink": "18012-Violet-Dr_Southfield_MI_48076_M42052-22527",
+      "list_date": "2021-12-10T02:20:45Z",
+      "open_houses": null,
+      "last_sold_date": null,
+      "last_price_change_date": null,
+      "description": {
+        "garage_max": null,
+        "sqft_min": 1678,
+        "baths_partial_calc": null,
+        "baths_1qtr": null,
+        "beds_max": 3,
+        "lot_sqft": null,
+        "sub_type": null,
+        "garage": 0,
+        "baths_3qtr": null,
+        "garage_min": null,
+        "beds_min": 2,
+        "baths_min": 2.5,
+        "name": "Spring Haven 605",
+        "baths_half": null,
+        "sqft": 0,
+        "year_built": 2017,
+        "baths": null,
+        "baths_full": null,
+        "sqft_max": 1871,
+        "baths_max": 3,
+        "baths_full_calc": null,
+        "beds": 0
+      },
+      "last_price_change_amount": null,
+      "price_reduced_date": null,
+      "property_history": null,
+      "photo_count": 20,
+      "list_price": null,
+      "lead_attributes": {
+        "show_contact_an_agent": true
+      },
+      "list_price_max": 2731,
+      "tags": [
+        "community_no_fee",
+        "community_gym",
+        "washer_dryer",
+        "central_air",
+        "forced_air",
+        "fireplace",
+        "dishwasher",
+        "hardwood_floors",
+        "pets_allowed",
+        "garage_1_or_more",
+        "open_floor_plan",
+        "floor_plan",
+        "master_suite",
+        "rental_property",
+        "playground",
+        "shopping"
+      ],
+      "pet_policy": {
+        "cats": true,
+        "dogs": true,
+        "dogs_large": false,
+        "dogs_small": false,
+        "text": null
+      },
+      "products": {
+        "products": ["showcase_community"],
+        "product_attributes": null
+      },
+      "suppression_flags": null,
+      "status": "for_rent",
+      "flags": {
+        "is_deal_available": null,
+        "is_senior_community": null,
+        "is_new_listing": false,
+        "is_for_rent": true,
+        "is_garage_present": null
+      },
+      "community": null,
+      "matterport": false,
+      "primary_photo": {
+        "href": "https://ar.rdcpix.com/3ba491e88c46406fb29b8568503d9785c-f416873137s-w1024_h768.jpg",
+        "type": null,
+        "description": null
+      }
+    }
+  ],
+  "agents": [
+    {
+      "types": "agent",
+      "nar_only": 1,
+      "role": "agent",
+      "marketing_area_cities": [
+        {
+          "name": "Bozeman",
+          "state_code": "MT",
+          "city_state": "Bozeman_MT"
+        },
+        {
+          "name": "Bridger",
+          "state_code": "MT",
+          "city_state": "Bridger_MT"
+        },
+        {
+          "name": "King Arthur Park",
+          "state_code": "MT",
+          "city_state": "King Arthur Park_MT"
+        },
+        {
+          "name": "Four Corners",
+          "state_code": "MT",
+          "city_state": "Four Corners_MT"
+        },
+        {
+          "name": "Gallatin Gateway",
+          "state_code": "MT",
+          "city_state": "Gallatin Gateway_MT"
+        },
+        {
+          "name": "Big Sky",
+          "state_code": "MT",
+          "city_state": "Big Sky_MT"
+        },
+        {
+          "name": "Livingston",
+          "state_code": "MT",
+          "city_state": "Livingston_MT"
+        },
+        {
+          "name": "Pray",
+          "state_code": "MT",
+          "city_state": "Pray_MT"
+        },
+        {
+          "name": "Wineglass",
+          "state_code": "MT",
+          "city_state": "Wineglass_MT"
+        },
+        {
+          "name": "Emigrant",
+          "state_code": "MT",
+          "city_state": "Emigrant_MT"
+        },
+        {
+          "name": "Willow Creek",
+          "state_code": "MT",
+          "city_state": "Willow Creek_MT"
+        },
+        {
+          "name": "Three Forks",
+          "state_code": "MT",
+          "city_state": "Three Forks_MT"
+        },
+        {
+          "name": "Ponderosa Pines",
+          "state_code": "MT",
+          "city_state": "Ponderosa Pines_MT"
+        },
+        {
+          "name": "Wheatland",
+          "state_code": "MT",
+          "city_state": "Wheatland_MT"
+        },
+        {
+          "name": "Belgrade",
+          "state_code": "MT",
+          "city_state": "Belgrade_MT"
+        },
+        {
+          "name": "Springhill",
+          "state_code": "MT",
+          "city_state": "Springhill_MT"
+        },
+        {
+          "name": "Lockwood",
+          "state_code": "MT",
+          "city_state": "Lockwood_MT"
+        },
+        {
+          "name": "Pryor",
+          "state_code": "MT",
+          "city_state": "Pryor_MT"
+        },
+        {
+          "name": "Billings",
+          "state_code": "MT",
+          "city_state": "Billings_MT"
+        },
+        {
+          "name": "Huntley",
+          "state_code": "MT",
+          "city_state": "Huntley_MT"
+        },
+        {
+          "name": "Greycliff",
+          "state_code": "MT",
+          "city_state": "Greycliff_MT"
+        },
+        {
+          "name": "Big Timber",
+          "state_code": "MT",
+          "city_state": "Big Timber_MT"
+        },
+        {
+          "name": "Clyde Park",
+          "state_code": "MT",
+          "city_state": "Clyde Park_MT"
+        },
+        {
+          "name": "Columbus",
+          "state_code": "MT",
+          "city_state": "Columbus_MT"
+        },
+        {
+          "name": "Fishtail",
+          "state_code": "MT",
+          "city_state": "Fishtail_MT"
+        },
+        {
+          "name": "Laurel",
+          "state_code": "MT",
+          "city_state": "Laurel_MT"
+        },
+        {
+          "name": "Nye",
+          "state_code": "MT",
+          "city_state": "Nye_MT"
+        },
+        {
+          "name": "South Glastonbury",
+          "state_code": "MT",
+          "city_state": "South Glastonbury_MT"
+        },
+        {
+          "name": "Shepherd",
+          "state_code": "MT",
+          "city_state": "Shepherd_MT"
+        },
+        {
+          "name": "The Silos",
+          "state_code": "MT",
+          "city_state": "The Silos_MT"
+        },
+        {
+          "name": "Toston",
+          "state_code": "MT",
+          "city_state": "Toston_MT"
+        },
+        {
+          "name": "Townsend",
+          "state_code": "MT",
+          "city_state": "Townsend_MT"
+        },
+        {
+          "name": "Ennis",
+          "state_code": "MT",
+          "city_state": "Ennis_MT"
+        },
+        {
+          "name": "Manhattan",
+          "state_code": "MT",
+          "city_state": "Manhattan_MT"
+        },
+        {
+          "name": "Churchill",
+          "state_code": "MT",
+          "city_state": "Churchill_MT"
+        },
+        {
+          "name": "Amsterdam-Churchill",
+          "state_code": "MT",
+          "city_state": "Amsterdam-Churchill_MT"
+        },
+        {
+          "name": "Amsterdam",
+          "state_code": "MT",
+          "city_state": "Amsterdam_MT"
+        },
+        {
+          "name": "Gallatin River Ranch",
+          "state_code": "MT",
+          "city_state": "Gallatin River Ranch_MT"
+        },
+        {
+          "name": "Logan",
+          "state_code": "MT",
+          "city_state": "Logan_MT"
+        }
+      ],
+      "background_photo": {
+        "href": ""
+      },
+      "address": {
+        "postal_code": "",
+        "city": "",
+        "country": "",
+        "line2": "",
+        "state": "Montana",
+        "line": "",
+        "state_code": ""
+      },
+      "is_realtor": true,
+      "href": "www.montanarootsrealty.com",
+      "office": {
+        "slogan": "",
+        "website": "WWW.MONTANAROOTSREALTY.COM",
+        "feed_licenses": {},
+        "video": "",
+        "name": "Montana Roots Realty",
+        "photo": {
+          "href": ""
+        },
+        "email": "barbsellsmontana@gmail.com",
+        "phones": [
+          {
+            "type": null,
+            "number": "(406) 581-3809",
+            "ext": null
+          }
+        ],
+        "address": {
+          "postal_code": "",
+          "city": "",
+          "country": "",
+          "line2": "",
+          "state": "Montana",
+          "line": "",
+          "state_code": ""
+        },
+        "party_id": "399780986",
+        "licenses": {},
+        "phone_list": {
+          "phone_1": {
+            "number": "(406) 581-3809",
+            "type": "Office"
+          }
+        },
+        "mls": [
+          {
+            "primary": "true",
+            "type": "O",
+            "abbreviation": "GAMT",
+            "member": {
+              "id": "2509395"
+            }
+          }
+        ],
+        "fulfillment_id": 0
+      },
+      "zips": [
+        "59715",
+        "59718",
+        "59716",
+        "59047",
+        "59752",
+        "59714",
+        "59101",
+        "59102",
+        "59103",
+        "59104",
+        "59105",
+        "59011",
+        "59018",
+        "59019",
+        "59028",
+        "59044",
+        "59061",
+        "59065",
+        "59079",
+        "59644",
+        "59719",
+        "59729",
+        "59741",
+        "59772",
+        "59773"
+      ],
+      "party_id": 99621190,
+      "first_year": 2005,
+      "name": "Barbara Kent, Broker/Owner",
+      "has_photo": true,
+      "review_count": 0,
+      "for_sale_price": {
+        "max": 895000,
+        "min": 477500,
+        "count": 3,
+        "last_listing_date": "2022-09-12T12:59:48Z"
+      },
+      "slogan": "Montana Roots Realty...helping you establish yours!",
+      "languages": {},
+      "id": "583fc20fd863b0000123f686",
+      "agent_team_details": {
+        "is_team_member": false
+      },
+      "recently_sold": {
+        "max": 0,
+        "last_sold_date": "2022-07-05",
+        "count": 29,
+        "min": 0
+      },
+      "photo": {
+        "href": "https://ap.rdcpix.com/883600855/90944acf9b0710f283ab81c164260ad1a-e0s.jpg"
+      },
+      "feed_licenses": {},
+      "first_name": "Barbara",
+      "mls_history": {},
+      "web_url": "https://www.realtor.com/realestateagents/Barbara-Kent___2860342_174899854",
+      "description": "Experience counts for a lot in this business.  A knowledgeable Realtor is who you need on your side.  There is plenty of paperwork, your due diligence, negotiations & more negotiations, so in order to get the most out of your sale or your purchase, finding a Realtor you like and trust is key. You'll have an advantage when you know and work with someone who has been in the business for more than 13 years, like Barb Kent, Broker/Owner of Montana Roots Realty.  Barb has been a licensed Realtor for over 13 years and has sold property all over the state of Montana.  A native Montanan and 32 year resident of Bozeman, Barb is someone you can trust as your guide throughout the whole buying or selling process.  Call Barb and put down some Montana roots today!  Why rent?  Call Barb Kent for ALL your real estate needs!",
+      "full_name": "Barbara Kent",
+      "email": "barbsellsmontana@gmail.com",
+      "recommendations_count": 0,
+      "designations": [
+        {
+          "name": "GRI"
+        },
+        {
+          "name": "AHWD"
+        }
+      ],
+      "settings": {
+        "display_ratings": false,
+        "show_stream": false,
+        "display_price_range": true,
+        "display_sold_listings": true,
+        "unsubscribe": {
+          "autorecs": false,
+          "account_notify": false,
+          "recapprove": false
+        },
+        "new_feature_popup_closed": {
+          "agent_left_nav_avatar_to_profile": false
+        },
+        "profile_wizard": {
+          "realsatisfied_opt_out": false,
+          "tt_opt_out": false
+        },
+        "share_contacts": false,
+        "loaded_from_sb": true,
+        "full_access": false,
+        "broker_data_feed_opt_out": false,
+        "has_dotrealtor": false,
+        "display_listings": true,
+        "terms_of_use": false,
+        "far_override": false
+      },
+      "broker": {
+        "accent_color": "#1bc21b",
+        "designations": {},
+        "video": "",
+        "name": "Montana Roots Realty -  Broker/Owner",
+        "photo": {
+          "href": ""
+        },
+        "fulfillment_id": 0
+      },
+      "last_updated": "Thu, 07 Jul 2022 04:33:21 GMT",
+      "mls": [
+        {
+          "abbreviation": "BLMT",
+          "member": {
+            "id": "KENTB125"
+          },
+          "license_number": "",
+          "primary": false,
+          "type": "A"
+        },
+        {
+          "abbreviation": "GAMT",
+          "member": {
+            "id": "1007255"
+          },
+          "license_number": "RRE-BRO-LIC-45423",
+          "primary": true,
+          "type": "A"
+        }
+      ],
+      "last_name": "Kent",
+      "specializations": [
+        {
+          "name": "Residential"
+        },
+        {
+          "name": "Second Homes"
+        },
+        {
+          "name": "First Time Home Buyers"
+        },
+        {
+          "name": "Condos"
+        },
+        {
+          "name": "Townhomes"
+        },
+        {
+          "name": "Acreage"
+        },
+        {
+          "name": "Commercial"
+        }
+      ],
+      "person_name": "Barbara Kent",
+      "user_languages": {},
+      "agent_rating": 0,
+      "title": "Broker/Owner",
+      "nick_name": "",
+      "nrds_id": "541001528",
+      "phones": [
+        {
+          "type": "Office",
+          "number": "(406) 581-3809",
+          "ext": ""
+        }
+      ],
+      "first_month": 0,
+      "served_areas": [
+        {
+          "state_code": "MT",
+          "name": "Bozeman"
+        },
+        {
+          "state_code": "MT",
+          "name": "Big Sky"
+        },
+        {
+          "state_code": "MT",
+          "name": "Livingston"
+        },
+        {
+          "state_code": "MT",
+          "name": "Three Forks"
+        },
+        {
+          "state_code": "MT",
+          "name": "Belgrade"
+        },
+        {
+          "state_code": "MT",
+          "name": "Billings"
+        },
+        {
+          "state_code": "MT",
+          "name": "Big Timber"
+        },
+        {
+          "state_code": "MT",
+          "name": "Clyde Park"
+        },
+        {
+          "state_code": "MT",
+          "name": "Columbus"
+        },
+        {
+          "state_code": "MT",
+          "name": "Fishtail"
+        },
+        {
+          "state_code": "MT",
+          "name": "Laurel"
+        },
+        {
+          "state_code": "MT",
+          "name": "Nye"
+        },
+        {
+          "state_code": "MT",
+          "name": "Pray"
+        },
+        {
+          "state_code": "MT",
+          "name": "Shepherd"
+        },
+        {
+          "state_code": "MT",
+          "name": "Townsend"
+        },
+        {
+          "state_code": "MT",
+          "name": "Ennis"
+        },
+        {
+          "state_code": "MT",
+          "name": "Manhattan"
+        }
+      ],
+      "advertiser_id": 2860342
+    },
+    {
+      "types": "agent",
+      "nar_only": 1,
+      "role": "agent",
+      "marketing_area_cities": [
+        {
+          "name": "Bozeman",
+          "state_code": "MT",
+          "city_state": "Bozeman_MT"
+        },
+        {
+          "name": "Bridger",
+          "state_code": "MT",
+          "city_state": "Bridger_MT"
+        },
+        {
+          "name": "King Arthur Park",
+          "state_code": "MT",
+          "city_state": "King Arthur Park_MT"
+        },
+        {
+          "name": "Four Corners",
+          "state_code": "MT",
+          "city_state": "Four Corners_MT"
+        },
+        {
+          "name": "Gallatin Gateway",
+          "state_code": "MT",
+          "city_state": "Gallatin Gateway_MT"
+        },
+        {
+          "name": "Belgrade",
+          "state_code": "MT",
+          "city_state": "Belgrade_MT"
+        },
+        {
+          "name": "Springhill",
+          "state_code": "MT",
+          "city_state": "Springhill_MT"
+        },
+        {
+          "name": "Willow Creek",
+          "state_code": "MT",
+          "city_state": "Willow Creek_MT"
+        },
+        {
+          "name": "Three Forks",
+          "state_code": "MT",
+          "city_state": "Three Forks_MT"
+        },
+        {
+          "name": "Ponderosa Pines",
+          "state_code": "MT",
+          "city_state": "Ponderosa Pines_MT"
+        },
+        {
+          "name": "Wheatland",
+          "state_code": "MT",
+          "city_state": "Wheatland_MT"
+        },
+        {
+          "name": "Manhattan",
+          "state_code": "MT",
+          "city_state": "Manhattan_MT"
+        },
+        {
+          "name": "Churchill",
+          "state_code": "MT",
+          "city_state": "Churchill_MT"
+        },
+        {
+          "name": "Amsterdam-Churchill",
+          "state_code": "MT",
+          "city_state": "Amsterdam-Churchill_MT"
+        },
+        {
+          "name": "Amsterdam",
+          "state_code": "MT",
+          "city_state": "Amsterdam_MT"
+        },
+        {
+          "name": "Gallatin River Ranch",
+          "state_code": "MT",
+          "city_state": "Gallatin River Ranch_MT"
+        },
+        {
+          "name": "Logan",
+          "state_code": "MT",
+          "city_state": "Logan_MT"
+        }
+      ],
+      "background_photo": {
+        "href": "https://ap.rdcpix.com/889532814/c887c5cd94f51ad6c606787daf323893g-c0o.jpg"
+      },
+      "address": {
+        "postal_code": "59718",
+        "city": "Bozeman",
+        "country": "",
+        "line2": "",
+        "state": "",
+        "line": "389 S. Ferguson Ave",
+        "state_code": "MT"
+      },
+      "is_realtor": true,
+      "social_media": {},
+      "href": "https://bozemanrealestate.group/agent/bronson-neff",
+      "office": {
+        "slogan": "A culture forward real estate company",
+        "website": "https://bozemanrealestate.group/",
+        "feed_licenses": null,
+        "video": null,
+        "name": "Bozeman Real Estate Group",
+        "photo": {
+          "href": "https://ap.rdcpix.com/846988778/6ff602507b40b2636b4c53646853d34fo-c0o.jpg"
+        },
+        "email": "info@bozemanrealestate.group",
+        "phones": [
+          {
+            "type": "Office",
+            "number": "(406) 587-1717",
+            "ext": ""
+          }
+        ],
+        "address": {
+          "postal_code": "59718",
+          "city": "Bozeman",
+          "country": "",
+          "line2": "",
+          "state": "",
+          "line": "389 S. Ferguson Ave",
+          "state_code": "MT"
+        },
+        "nrds_id": null,
+        "licenses": null,
+        "phone_list": {
+          "phone_1": {
+            "ext": "",
+            "number": "4065871717",
+            "type": "Office"
+          }
+        },
+        "mls": [
+          {
+            "abbreviation": "GAMT",
+            "member": {
+              "id": "1010501"
+            },
+            "id": 230,
+            "primary": true,
+            "type": "O"
+          }
+        ],
+        "fulfillment_id": 3158549
+      },
+      "zips": ["59715", "59718", "59714", "59752", "59741"],
+      "party_id": 248246964,
+      "first_year": 2015,
+      "name": "Bronson Neff, Broker",
+      "has_photo": true,
+      "review_count": 0,
+      "agent_team_details": {
+        "is_team_member": false
+      },
+      "recently_sold": {
+        "max": 0,
+        "last_sold_date": "2022-09-12",
+        "count": 52,
+        "min": 0
+      },
+      "email": "bronson@bozemanrealestate.group",
+      "feed_licenses": {},
+      "for_sale_price": {
+        "max": 300000,
+        "last_listing_date": "2022-03-24T19:17:23Z",
+        "count": 1,
+        "min": 300000
+      },
+      "raw_products": null,
+      "products": null,
+      "slogan": "",
+      "advertiser_id": 2221086,
+      "languages": {},
+      "id": "56bb8a597e54f7010021a8af",
+      "specializations": [
+        {
+          "name": "Buyer's Agent"
+        },
+        {
+          "name": "Seller's Agent"
+        },
+        {
+          "name": "Vacant Land"
+        },
+        {
+          "name": "Residential"
+        }
+      ],
+      "areas_of_business": {},
+      "photo": {
+        "href": "https://ap.rdcpix.com/387409137/beb31accfb3ca0679da4f35854a6fa89a-e0s.jpg"
+      },
+      "nrds_id": "541003012",
+      "first_name": "Bronson",
+      "full_name": "Bronson Neff",
+      "web_url": "https://www.realtor.com/realestateagents/Bronson-Neff_Bozeman_MT_2221086_789699854",
+      "description": "Professional\n\nI am a Realtor that strives on keeping my clients best interests at heart while delivering superb customer service. From my experiences working in the restaurant industry for most of my life, I have developed excellent interpersonal skills and know what it takes to get the job done. I specialize in single-family residential homes as well as vacant/raw land.\n\nPersonal\n\nI was born and raised in Tucson, AZ where I earned a degree in Economics from the University of Arizona. Throughout my life I have always been very active in sports from basketball and football to snowboarding and mountain biking. I enjoy traveling and experiencing new places with friends and family.",
+      "data_flags": null,
+      "mls": [
+        {
+          "abbreviation": "GAMT",
+          "member": {
+            "id": "1008789"
+          },
+          "license_number": "RRE-BRO-LIC-62212",
+          "primary": true,
+          "type": "A"
+        }
+      ],
+      "recommendations_count": 1,
+      "designations": {},
+      "last_name": "Neff",
+      "broker": {
+        "accent_color": "#435b72",
+        "designations": {},
+        "video": "",
+        "name": "Bozeman Real Estate Group ",
+        "photo": {
+          "href": "https://ap.rdcpix.com/898256811/6f15dab8d86931852790d684c38b1487k-c0s.jpg"
+        },
+        "fulfillment_id": 3158548
+      },
+      "last_updated": "Sun, 23 Jan 2022 22:27:27 GMT",
+      "phones": [
+        {
+          "type": "Mobile",
+          "number": "(406) 624-9788",
+          "ext": ""
+        }
+      ],
+      "video": "https://www.youtube.com/embed/kw7l9w-9OP4?autoplay=1&modestbranding=1&rel=0",
+      "settings": {
+        "display_ratings": true,
+        "show_stream": true,
+        "display_price_range": true,
+        "display_sold_listings": true,
+        "unsubscribe": {
+          "autorecs": false,
+          "account_notify": false,
+          "recapprove": false
+        },
+        "profile_wizard": {
+          "realsatisfied_opt_out": false,
+          "tt_opt_out": false
+        },
+        "new_feature_popup_closed": {
+          "agent_left_nav_avatar_to_profile": false
+        },
+        "has_dotrealtor": false,
+        "share_contacts": false,
+        "loaded_from_sb": true,
+        "full_access": false,
+        "broker_data_feed_opt_out": false,
+        "cfb_wizard_step": "account_integration",
+        "display_listings": true,
+        "terms_of_use": true,
+        "far_override": true
+      },
+      "person_name": "Bronson Neff",
+      "user_languages": {},
+      "agent_rating": 0,
+      "title": "Broker",
+      "nick_name": "",
+      "agent_type": ["buyer", "seller"],
+      "mls_history": {},
+      "first_month": 8,
+      "served_areas": [
+        {
+          "state_code": "MT",
+          "name": "Bozeman"
+        },
+        {
+          "state_code": "MT",
+          "name": "Belgrade"
+        },
+        {
+          "state_code": "MT",
+          "name": "Three Forks"
+        },
+        {
+          "state_code": "MT",
+          "name": "Manhattan"
+        }
+      ],
+      "product_code": null
+    },
+    {
+      "types": "agent",
+      "nar_only": 1,
+      "role": "agent",
+      "marketing_area_cities": [
+        {
+          "name": "Livingston",
+          "state_code": "MT",
+          "city_state": "Livingston_MT"
+        },
+        {
+          "name": "Pray",
+          "state_code": "MT",
+          "city_state": "Pray_MT"
+        },
+        {
+          "name": "Wineglass",
+          "state_code": "MT",
+          "city_state": "Wineglass_MT"
+        },
+        {
+          "name": "Emigrant",
+          "state_code": "MT",
+          "city_state": "Emigrant_MT"
+        },
+        {
+          "name": "Belgrade",
+          "state_code": "MT",
+          "city_state": "Belgrade_MT"
+        },
+        {
+          "name": "Springhill",
+          "state_code": "MT",
+          "city_state": "Springhill_MT"
+        },
+        {
+          "name": "Bozeman",
+          "state_code": "MT",
+          "city_state": "Bozeman_MT"
+        },
+        {
+          "name": "Bridger",
+          "state_code": "MT",
+          "city_state": "Bridger_MT"
+        },
+        {
+          "name": "King Arthur Park",
+          "state_code": "MT",
+          "city_state": "King Arthur Park_MT"
+        },
+        {
+          "name": "Four Corners",
+          "state_code": "MT",
+          "city_state": "Four Corners_MT"
+        },
+        {
+          "name": "Gallatin Gateway",
+          "state_code": "MT",
+          "city_state": "Gallatin Gateway_MT"
+        },
+        {
+          "name": "Manhattan",
+          "state_code": "MT",
+          "city_state": "Manhattan_MT"
+        },
+        {
+          "name": "Churchill",
+          "state_code": "MT",
+          "city_state": "Churchill_MT"
+        },
+        {
+          "name": "Amsterdam-Churchill",
+          "state_code": "MT",
+          "city_state": "Amsterdam-Churchill_MT"
+        },
+        {
+          "name": "Amsterdam",
+          "state_code": "MT",
+          "city_state": "Amsterdam_MT"
+        },
+        {
+          "name": "Gallatin River Ranch",
+          "state_code": "MT",
+          "city_state": "Gallatin River Ranch_MT"
+        },
+        {
+          "name": "Logan",
+          "state_code": "MT",
+          "city_state": "Logan_MT"
+        }
+      ],
+      "background_photo": {
+        "href": ""
+      },
+      "address": {
+        "postal_code": "59741",
+        "city": "Manhattan",
+        "country": "US",
+        "line2": "",
+        "state": "",
+        "line": "102 West Main, Suite A",
+        "state_code": "MT"
+      },
+      "is_realtor": true,
+      "href": "",
+      "office": {
+        "slogan": "Your local, hometown Montana realtors.",
+        "website": "http://www.amerimont.com",
+        "video": null,
+        "name": "AmeriMont Real Estate",
+        "photo": {
+          "href": "http://p.rdcpix.com/v02/oc6ef0100-c0l.gif"
+        },
+        "email": "corrie@amerimont.com",
+        "phones": [
+          {
+            "type": "Other",
+            "number": "(406) 284-6546",
+            "ext": ""
+          },
+          {
+            "type": "Other",
+            "number": "(406) 284-6678",
+            "ext": ""
+          },
+          {
+            "type": "Office",
+            "number": "(406) 284-3200",
+            "ext": ""
+          }
+        ],
+        "address": {
+          "postal_code": "59741",
+          "city": "Manhattan",
+          "country": "US",
+          "line2": "",
+          "state": "",
+          "line": "102 West Main, Suite A",
+          "state_code": "MT"
+        },
+        "nrds_id": "541000033",
+        "phone_list": {
+          "phone_1": {
+            "ext": "",
+            "number": "4062846546",
+            "type": "Other"
+          },
+          "phone_3": {
+            "ext": "",
+            "number": "4062843200",
+            "type": "Office"
+          },
+          "phone_2": {
+            "ext": "",
+            "number": "4062846678",
+            "type": "Other"
+          }
+        },
+        "mls": [
+          {
+            "abbreviation": "GAMT",
+            "member": {
+              "id": "1000552"
+            },
+            "id": 230,
+            "primary": true,
+            "type": "O"
+          }
+        ],
+        "fulfillment_id": 126918
+      },
+      "zips": ["59047", "59714", "59715", "59718", "59741"],
+      "party_id": 227896584,
+      "first_year": 2015,
+      "name": "Kim Fitch, Agent",
+      "has_photo": true,
+      "review_count": 1,
+      "for_sale_price": {
+        "max": 2350000,
+        "last_listing_date": "2022-09-10T05:20:30Z",
+        "count": 9,
+        "min": 350000
+      },
+      "slogan": "Agent",
+      "languages": {},
+      "id": "56d65114f384a201005f452a",
+      "agent_team_details": {
+        "is_team_member": false
+      },
+      "photo": {
+        "is_zoomed": false,
+        "href": "https://ap.rdcpix.com/6d22b6b3e8fe346f2bba527d8182b733a-e3617779262s.jpg"
+      },
+      "recently_sold": {
+        "max": 0,
+        "last_sold_date": "2022-09-01",
+        "count": 48,
+        "min": 0
+      },
+      "first_name": "",
+      "full_name": "Kim Fitch",
+      "web_url": "https://www.realtor.com/realestateagents/Kim-Fitch_Manhattan_MT_2129857_050799854",
+      "description": "",
+      "email": "kimfitch406@gmail.com",
+      "mls": [
+        {
+          "abbreviation": "GAMT",
+          "member": {
+            "id": "1008741"
+          },
+          "license_number": "RRE-BRO-LIC-80118",
+          "primary": true,
+          "type": "A"
+        }
+      ],
+      "recommendations_count": 0,
+      "designations": [
+        {
+          "name": "ABR"
+        },
+        {
+          "name": "PSA"
+        }
+      ],
+      "last_name": "",
+      "broker": {
+        "accent_color": "",
+        "designations": {},
+        "video": "",
+        "name": "Amerimont Real Estate Broker",
+        "photo": {
+          "href": ""
+        },
+        "fulfillment_id": 1613246
+      },
+      "last_updated": "Wed, 06 Apr 2022 20:27:54 GMT",
+      "phones": [
+        {
+          "type": "Mobile",
+          "number": "(406) 581-1496",
+          "ext": ""
+        }
+      ],
+      "specializations": {},
+      "settings": {
+        "display_ratings": true,
+        "show_stream": false,
+        "display_price_range": true,
+        "display_sold_listings": true,
+        "unsubscribe": {
+          "autorecs": false,
+          "account_notify": false,
+          "recapprove": false
+        },
+        "new_feature_popup_closed": {
+          "agent_left_nav_avatar_to_profile": false
+        },
+        "profile_wizard": {
+          "realsatisfied_opt_out": false,
+          "tt_opt_out": false
+        },
+        "share_contacts": false,
+        "loaded_from_sb": false,
+        "full_access": false,
+        "broker_data_feed_opt_out": false,
+        "has_dotrealtor": false,
+        "display_listings": true,
+        "terms_of_use": false,
+        "far_override": false
+      },
+      "person_name": "Kim Fitch",
+      "user_languages": {},
+      "agent_rating": 5,
+      "title": "Agent",
+      "nick_name": "",
+      "nrds_id": "541002949",
+      "mls_history": {},
+      "first_month": 0,
+      "served_areas": [
+        {
+          "state_code": "MT",
+          "name": "Livingston"
+        },
+        {
+          "state_code": "MT",
+          "name": "Belgrade"
+        },
+        {
+          "state_code": "MT",
+          "name": "Bozeman"
+        },
+        {
+          "state_code": "MT",
+          "name": "Manhattan"
+        }
+      ],
+      "advertiser_id": 2129857
+    },
+    {
+      "types": "agent",
+      "nar_only": 1,
+      "role": "agent",
+      "marketing_area_cities": [
+        {
+          "name": "Emigrant",
+          "state_code": "MT",
+          "city_state": "Emigrant_MT"
+        },
+        {
+          "name": "South Glastonbury",
+          "state_code": "MT",
+          "city_state": "South Glastonbury_MT"
+        },
+        {
+          "name": "Livingston",
+          "state_code": "MT",
+          "city_state": "Livingston_MT"
+        },
+        {
+          "name": "Pray",
+          "state_code": "MT",
+          "city_state": "Pray_MT"
+        },
+        {
+          "name": "Wineglass",
+          "state_code": "MT",
+          "city_state": "Wineglass_MT"
+        },
+        {
+          "name": "The Silos",
+          "state_code": "MT",
+          "city_state": "The Silos_MT"
+        },
+        {
+          "name": "Toston",
+          "state_code": "MT",
+          "city_state": "Toston_MT"
+        },
+        {
+          "name": "Townsend",
+          "state_code": "MT",
+          "city_state": "Townsend_MT"
+        },
+        {
+          "name": "Bozeman",
+          "state_code": "MT",
+          "city_state": "Bozeman_MT"
+        },
+        {
+          "name": "Bridger",
+          "state_code": "MT",
+          "city_state": "Bridger_MT"
+        },
+        {
+          "name": "Big Sky",
+          "state_code": "MT",
+          "city_state": "Big Sky_MT"
+        },
+        {
+          "name": "King Arthur Park",
+          "state_code": "MT",
+          "city_state": "King Arthur Park_MT"
+        },
+        {
+          "name": "Four Corners",
+          "state_code": "MT",
+          "city_state": "Four Corners_MT"
+        },
+        {
+          "name": "Gallatin Gateway",
+          "state_code": "MT",
+          "city_state": "Gallatin Gateway_MT"
+        },
+        {
+          "name": "Ennis",
+          "state_code": "MT",
+          "city_state": "Ennis_MT"
+        },
+        {
+          "name": "Manhattan",
+          "state_code": "MT",
+          "city_state": "Manhattan_MT"
+        },
+        {
+          "name": "Churchill",
+          "state_code": "MT",
+          "city_state": "Churchill_MT"
+        },
+        {
+          "name": "Amsterdam-Churchill",
+          "state_code": "MT",
+          "city_state": "Amsterdam-Churchill_MT"
+        },
+        {
+          "name": "Amsterdam",
+          "state_code": "MT",
+          "city_state": "Amsterdam_MT"
+        },
+        {
+          "name": "Gallatin River Ranch",
+          "state_code": "MT",
+          "city_state": "Gallatin River Ranch_MT"
+        },
+        {
+          "name": "Logan",
+          "state_code": "MT",
+          "city_state": "Logan_MT"
+        },
+        {
+          "name": "Willow Creek",
+          "state_code": "MT",
+          "city_state": "Willow Creek_MT"
+        },
+        {
+          "name": "Three Forks",
+          "state_code": "MT",
+          "city_state": "Three Forks_MT"
+        },
+        {
+          "name": "Ponderosa Pines",
+          "state_code": "MT",
+          "city_state": "Ponderosa Pines_MT"
+        },
+        {
+          "name": "Wheatland",
+          "state_code": "MT",
+          "city_state": "Wheatland_MT"
+        }
+      ],
+      "background_photo": {
+        "href": "https://ap.rdcpix.com/530721937/34f4fa979ad523d87bf5be477e410ecag-c0s.jpg"
+      },
+      "address": {
+        "postal_code": "59718",
+        "city": "Bozeman",
+        "country": "US",
+        "line2": "",
+        "state": "",
+        "line": "1745 S. 19th Ave, Suite 2",
+        "state_code": "MT"
+      },
+      "is_realtor": true,
+      "social_media": {},
+      "href": "http://www.bozemanbrokers.com",
+      "office": {
+        "slogan": "",
+        "website": "http://www.bozemanbrokers.com",
+        "feed_licenses": null,
+        "video": null,
+        "name": "BOZEMAN BROKERS",
+        "photo": {
+          "href": "http://ap.rdcpix.com/1465191992/5d1be6da9b3973bbfa17d93bddbb0cb4o-c0o.jpg"
+        },
+        "email": "info@bozemanbrokers.com",
+        "phones": [
+          {
+            "type": "Office",
+            "number": "(406) 587-5900",
+            "ext": ""
+          }
+        ],
+        "address": {
+          "postal_code": "59718",
+          "city": "Bozeman",
+          "country": "US",
+          "line2": "",
+          "state": "",
+          "line": "1745 S. 19th Ave, Suite 2",
+          "state_code": "MT"
+        },
+        "nrds_id": "541005067",
+        "licenses": null,
+        "phone_list": {
+          "phone_1": {
+            "ext": "",
+            "number": "4065875900",
+            "type": "Office"
+          }
+        },
+        "mls": [
+          {
+            "abbreviation": "GAMT",
+            "member": {
+              "id": "1000169"
+            },
+            "id": 230,
+            "primary": true,
+            "type": "O"
+          }
+        ],
+        "fulfillment_id": 377116
+      },
+      "zips": [
+        "59027",
+        "59047",
+        "59644",
+        "59715",
+        "59716",
+        "59718",
+        "59719",
+        "59729",
+        "59730",
+        "59741",
+        "59752",
+        "59760",
+        "59772",
+        "59773"
+      ],
+      "party_id": 216605624,
+      "first_year": 2013,
+      "name": "Margaret Asay, Broker/Owner",
+      "has_photo": true,
+      "review_count": 0,
+      "agent_team_details": {
+        "is_team_member": false
+      },
+      "recently_sold": {
+        "max": 0,
+        "last_sold_date": "2022-06-16",
+        "count": 46,
+        "min": 0
+      },
+      "nrds_id": "543001016",
+      "feed_licenses": {},
+      "for_sale_price": {
+        "max": 1200000,
+        "last_listing_date": "2022-09-09T23:18:26Z",
+        "count": 4,
+        "min": 299000
+      },
+      "raw_products": null,
+      "mls_history": {},
+      "slogan": "Service you deserve - someone you can trust.",
+      "products": null,
+      "languages": {},
+      "id": "56d5a0a0de071e010062b9a5",
+      "phones": [
+        {
+          "key": "phone_1",
+          "type": "Mobile",
+          "number": "(406) 461-6047",
+          "ext": ""
+        },
+        {
+          "key": "phone_2",
+          "type": "Office",
+          "number": "(406) 587-7771",
+          "ext": ""
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Residential Listings and Sales"
+        }
+      ],
+      "photo": {
+        "href": "https://ap.rdcpix.com/1381296565/f093993493a048d2b7a1c10c05e36570a-e0s.jpg"
+      },
+      "areas_of_business": {},
+      "first_name": "Margaret",
+      "nick_name": "",
+      "web_url": "https://www.realtor.com/realestateagents/Margaret-Asay_Bozeman_MT_2056143_389899654",
+      "description": " Margaret brings professionalism, uncommon enthusiasm, and vivacity to her real estate practice. Whether you are looking for your first home, a second home, investment or recreational property, or wanting to sell property, you will find that Margaret is timely, perceptive and hard-working. She is fun to work with! \nAs of April 1st, Margaret’s office will be at 1745 South 19th Ave, Suite 2, Bozeman, Montana 59718, and she can be reached at the Bozeman Broker Group office or her cell phone.",
+      "data_flags": null,
+      "full_name": "Margaret Asay",
+      "advertiser_id": 2056143,
+      "designations": [
+        {
+          "name": "GRI"
+        },
+        {
+          "name": "MRP"
+        },
+        {
+          "name": "C2EX"
+        }
+      ],
+      "settings": {
+        "display_ratings": true,
+        "show_stream": true,
+        "display_price_range": true,
+        "display_sold_listings": true,
+        "unsubscribe": {
+          "autorecs": false,
+          "account_notify": false,
+          "recapprove": false
+        },
+        "profile_wizard": {
+          "realsatisfied_opt_out": false,
+          "tt_opt_out": false
+        },
+        "new_feature_popup_closed": {
+          "agent_left_nav_avatar_to_profile": false
+        },
+        "has_dotrealtor": false,
+        "share_contacts": false,
+        "loaded_from_sb": true,
+        "full_access": false,
+        "broker_data_feed_opt_out": false,
+        "cfb_wizard_step": "account_integration",
+        "display_listings": true,
+        "terms_of_use": true,
+        "far_override": true
+      },
+      "broker": {
+        "accent_color": "Transparent",
+        "designations": {},
+        "video": "",
+        "name": "Bozeman Brokers",
+        "photo": {
+          "href": "https://ap.rdcpix.com/1797002735/be4fc890283e5e2403a524ab82f19940k-c0s.jpg"
+        },
+        "fulfillment_id": 969623
+      },
+      "last_updated": "Sat, 22 Jan 2022 06:59:14 GMT",
+      "email": "margaret@bozemanbrokers.com",
+      "video": null,
+      "agent_rating": 0,
+      "person_name": "Margaret Asay",
+      "user_languages": {},
+      "mls": [
+        {
+          "abbreviation": "GAMT",
+          "member": {
+            "id": "1008706"
+          },
+          "id": 230,
+          "primary": true,
+          "type": "A"
+        }
+      ],
+      "title": "Broker/Owner",
+      "last_name": "Asay",
+      "agent_type": {},
+      "recommendations_count": 0,
+      "first_month": 2,
+      "served_areas": [
+        {
+          "state_code": "MT",
+          "name": "Emigrant"
+        },
+        {
+          "state_code": "MT",
+          "name": "Livingston"
+        },
+        {
+          "state_code": "MT",
+          "name": "Townsend"
+        },
+        {
+          "state_code": "MT",
+          "name": "Bozeman"
+        },
+        {
+          "state_code": "MT",
+          "name": "Big Sky"
+        },
+        {
+          "state_code": "MT",
+          "name": "Ennis"
+        },
+        {
+          "state_code": "MT",
+          "name": "Gallatin Gateway"
+        },
+        {
+          "state_code": "MT",
+          "name": "Manhattan"
+        },
+        {
+          "state_code": "MT",
+          "name": "Three Forks"
+        },
+        {
+          "state_code": "MT",
+          "name": "Willow Creek"
+        }
+      ],
+      "product_code": null
+    }
+  ]
+}

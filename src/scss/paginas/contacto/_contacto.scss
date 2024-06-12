@@ -1,0 +1,53 @@
+@use "base/variables" as v;
+@use "base/mixins" as m;
+
+.contacto {
+  &__grid {
+    @include m.grid(1, 0rem);
+    @include m.tablet {
+      @include m.grid(2, 1rem);
+      height: 90rem;
+    }
+  }
+
+  &__imagen {
+    display: none;
+    @include m.tablet {
+      display: block;
+      background-image: url(../img/contacto.webp);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-position: center left;
+    }
+  }
+  &__formulario {
+    @include m.contenedor;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-top: 10rem;
+    @include m.tablet {
+      @include m.contenedor-md;
+      margin-top: 10rem;
+    }
+  }
+  &__titulo {
+    margin: 0;
+    text-align: center;
+    @include m.tablet {
+      text-align: left;
+    }
+    & span {
+      color: v.$azul-500;
+      display: none;
+      @include m.tablet {
+        display: inline-block;
+      }
+    }
+  }
+  &__instrucciones {
+    margin: 5rem 0 1rem 0;
+  }
+}

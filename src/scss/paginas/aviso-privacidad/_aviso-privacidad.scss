@@ -1,0 +1,30 @@
+@use "base/variables" as v;
+@use "base/mixins" as m;
+
+.aviso-privacidad {
+  @include m.contenedor;
+  margin: 8rem auto;
+
+  &__contenido {
+    @include m.tablet {
+      margin-top: 8rem;
+    }
+  }
+  &__titulo {
+    text-align: center;
+    @include m.tablet {
+      text-align: left;
+    }
+  }
+  &__texto {
+    font-size: 1.6rem;
+    font-weight: v.$delgada;
+    line-height: 1.5;
+    margin-top: 1rem;
+    
+  }
+  &__subtitulo {
+    font-size: 1.8rem;
+    text-transform: uppercase;
+  }
+}

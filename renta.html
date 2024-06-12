@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IH | Ventas</title>
+
+    <!--Tipografia-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
+    <!--Swiper-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+    <!--Iconos-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!--SweetAlert-->
+    <script src="
+        https://cdn.jsdelivr.net/npm/sweetalert2@11.11.1/dist/sweetalert2.all.min.js
+        "></script>
+    <link href="
+        https://cdn.jsdelivr.net/npm/sweetalert2@11.11.1/dist/sweetalert2.min.css
+        " rel="stylesheet">
+
+    <!--Estilos propios-->
+    <link rel="stylesheet" href="build/css/app.css">
+</head>
+
+<body>
+
+    <a class="whatsapp__enlace" href="#"><i class="fa-brands fa-whatsapp"></i></a>
+
+    <nav class="navegacion">
+        <div class="navegacion__logo">
+            <a href="index.html">
+                <h1>Inmobiliaria Horizonte</h1>
+            </a>
+        </div>
+        <div class="navegacion__enlaces">
+            <a href="venta.html" class="navegacion__enlace">Venta</a>
+            <a href="renta.html" class="navegacion__enlace navegacion__enlace--actual">Renta</a>
+            <a href="contacto.html " class="navegacion__enlace ">Contactanos</a>
+            
+            <a href="aviso-privacidad.html" class="navegacion__enlace">Aviso de
+                Privacidad</a>
+        </div>
+    </nav>
+
+    <main class="propiedades propiedades-renta" id="propiedades">
+        <h2 class="propiedades__titulo">Propiedades en Renta</h2>
+        <div class="propiedades__grid">
+            <aside class="propiedades__filtros">
+                <h3 class="propiedades__subtitulo">Filtros</h3>
+                <div class="filtro">
+                    <form class=" formulario filtro__opcion">
+                        <p class="filtro__opcion-titulo">Baños</p>
+                        <select id="baths-propiedad">
+                            <option value="" selected disabled>Seleccionar</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                        </select>
+                    </form>
+                </div>
+                <div class="filtro">
+                    <form class=" formulario filtro__opcion">
+                        <p class="filtro__opcion-titulo">Recamaras</p>
+                        <select id="recamaras-propiedad">
+                            <option selected disabled value="">Seleccionar</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                        </select>
+                    </form>
+                </div>
+                <div class="filtro">
+                    <form class="formulario filtro__opcion" id="formulario-precio">
+                        <p class="filtro__opcion-titulo">Precio</p>
+                        <div class="formulario__campo formulario__campo--mb-0">
+                            <input type="number" name="minimo" id="minimo" placeholder="Minimo">
+                            <input type="number" name="maximo" id="maximo" placeholder="Maximo">
+                        </div>
+                        <button type="submit" class="formulario__submit formulario__submit--w-100">Aplicar</button>
+                    </form>
+                </div>
+            </aside>
+
+            <div class="propiedades__contenedor">
+                <div class="propiedades__cards" id="renta">
+
+                </div>
+            </div>
+        </div>
+    </main>
+
+
+    <footer class="footer">
+        <nav class="navegacion">
+            <div class="navegacion__logo">
+                <a href="index.html">
+                    <h1>Inmobiliaria Horizonte</h1>
+                </a>
+            </div>
+            <div class="navegacion__enlaces">
+                <a href="venta.html" class="navegacion__enlace ">Venta</a>
+                <a href="renta.html" class="navegacion__enlace navegacion__enlace--actual">Renta</a>
+                <a href="contacto.html" class="navegacion__enlace">Contactanos</a>
+                
+                <a href="aviso-privacidad.html" class="navegacion__enlace">Aviso de
+                    Privacidad</a>
+            </div>
+        </nav>
+        <div class="footer__derechos">
+            <p class="footer__copyrigh">&copy; 2024 Todos los derechos reservados Inmobiliaria Horizonte</p>
+            <div class="footer__sociales">
+                <a class="footer__sociales-enlace" href="#"><i class="fa-brands fa-facebook"></i></a>
+                <a class="footer__sociales-enlace" href="#"><i class="fa-brands fa-instagram"></i></a>
+                <a class="footer__sociales-enlace" href="#"><i class="fa-brands fa-youtube"></i></a>
+                <a class="footer__sociales-enlace" href="#"><i class="fa-brands fa-whatsapp"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="build/js/main.min.js"></script>
+</body>
+
+</html>

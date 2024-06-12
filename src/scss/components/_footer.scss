@@ -1,0 +1,43 @@
+@use "base/variables" as v;
+@use "base/mixins" as m;
+
+.footer {
+  background-color: v.$azul-600;
+  padding-bottom: 3.5rem;
+
+  &__derechos {
+    padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    @include m.tablet {
+      flex-direction: row;
+      width: 80%;
+      margin: 0 auto;
+    }
+  }
+  &__copyrigh {
+    color: v.$blanco;
+  }
+  &__sociales {
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+    @include m.tablet {
+      width: 15%;
+    }
+  }
+  &__sociales-enlace {
+    font-size: 2.5rem;
+    color: v.$blanco;
+    transition: all 0.3s ease;
+    &:hover {
+      color: v.$azul-400;
+    }
+    @include m.tablet {
+      font-size: 3rem;
+    }
+  }
+}

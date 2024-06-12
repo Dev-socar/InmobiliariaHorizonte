@@ -1,0 +1,19 @@
+@use "base/variables" as v;
+@use "base/mixins" as m;
+
+.destacados {
+  background-color: v.$azul-100;
+
+  &__contenedor {
+    @include m.contenedor;
+    padding: 3rem 0;
+    margin-top: 8rem;
+  }
+  &__titulo {
+    text-align: center;
+    margin-top: 0;
+    @include m.tablet {
+      text-align: left;
+    }
+  }
+}

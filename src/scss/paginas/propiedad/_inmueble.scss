@@ -1,0 +1,283 @@
+@use "base/variables" as v;
+@use "base/mixins" as m;
+
+.inmueble {
+  @include m.contenedor;
+  margin: 8rem auto;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  padding: 1rem;
+  @include m.tablet {
+    padding: 2rem;
+  }
+
+  &__swiper {
+    height: 60rem;
+  }
+  &__encabezados {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    @include m.tablet {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 5rem;
+    }
+  }
+  &__encabezado {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__titulo {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+    @include m.tablet {
+      font-size: 4rem;
+    }
+  }
+  &__ubicacion {
+    color: lighten(v.$azul-600, 10);
+    margin-top: 1rem;
+    margin-bottom: 0;
+    @include m.tablet {
+      font-size: 2.3rem;
+    }
+  }
+  &__estado {
+    display: flex;
+    flex-direction: column;
+    @include m.tablet {
+      flex-direction: row;
+      align-items: center;
+      gap: 1rem;
+    }
+  }
+  &__precio {
+    font-size: 2.3rem;
+    font-weight: v.$regular;
+    margin-top: 2rem;
+    margin-bottom: 0;
+    @include m.tablet {
+      margin: 0;
+      font-size: 4.5rem;
+    }
+  }
+  &__disponible {
+    font-weight: v.$regular;
+    color: lighten(v.$azul-600, 10);
+    margin: 0;
+    margin-top: 1rem;
+    text-transform: uppercase;
+    @include m.tablet {
+      margin: 0;
+      font-size: 1.6rem;
+    }
+  }
+
+  &__caracteristicas-lista,
+  &__caracteristicas-listado {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  &__caracteristicas-listado {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  &__caracteristicas-lista {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 2.4rem 1.6rem;
+    text-align: center;
+    background-color: lighten(v.$azul-100, 5);
+    &:nth-child(1) {
+      border-left: 1px solid v.$azul-400;
+      border-bottom: 1px solid v.$azul-400;
+      border-right: 1px solid v.$azul-400;
+      @include m.tablet {
+        border-bottom-left-radius: 1rem;
+      }
+    }
+    &:nth-child(2) {
+      border-bottom: 1px solid v.$azul-400;
+      border-right: 1px solid v.$azul-400;
+    }
+    &:nth-child(3) {
+      border-bottom: 1px solid v.$azul-400;
+      border-right: 1px solid v.$azul-400;
+      border-left: 1px solid v.$azul-400;
+      border-bottom-left-radius: 1rem;
+      @include m.tablet {
+        border-left: unset;
+        border-radius: 0;
+      }
+    }
+    &:nth-child(4) {
+      border-bottom: 1px solid v.$azul-400;
+      border-right: 1px solid v.$azul-400;
+      border-bottom-right-radius: 1rem;
+    }
+    @include m.tablet {
+      flex: 1;
+    }
+    & span {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-weight: v.$bold;
+      @include m.tablet {
+        font-size: 2rem;
+      }
+    }
+    & small {
+      font-weight: v.$delgada;
+      text-transform: uppercase;
+    }
+  }
+  &__detalles-grid {
+    margin-top: 5rem;
+
+    @include m.desktop {
+      @include m.grid(3, 1rem);
+    }
+  }
+  &__caracteristicas {
+    @include m.desktop {
+      grid-column: 1 / 3;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: 25rem auto;
+    }
+  }
+  &__detalles {
+    @include m.desktop {
+      grid-column: 1 / 3;
+      display: flex;
+      align-items: flex-start;
+      gap: 10rem;
+    }
+  }
+  &__subtitulo {
+    width: max-content;
+    &::after {
+      content: "";
+      display: block;
+      width: 100%;
+      height: 0.5rem;
+      background-color: v.$azul-500;
+      @include m.tablet {
+        width: 100%;
+      }
+    }
+    margin-bottom: 2.5rem;
+    @include m.tablet {
+      margin-bottom: 0;
+    }
+  }
+  &__detalles-listado {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    @include m.tablet {
+      margin-top: 3rem;
+    }
+  }
+  &__detalles-lista {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    & p {
+      font-weight: v.$bold;
+      margin: 0;
+    }
+  }
+  &__mapa {
+    @include m.tablet {
+      grid-column: 1 / 3;
+    }
+  }
+
+  &__asesor {
+    margin-top: 5rem;
+    padding: 1rem;
+    width: 80%;
+    margin: 5rem auto 0 auto;
+    @include m.tablet {
+      margin-top: 0;
+      display: flex;
+      justify-content: center;
+    }
+  }
+}
+.mapa {
+  width: 100%;
+  height: 50rem;
+  @include m.tablet {
+    margin-top: 1rem;
+    height: 50rem;
+  }
+
+  &__nombre {
+    color: v.$azul-500;
+    margin: 0;
+    font-size: 1.8rem;
+  }
+  &__ubicacion {
+    color: lighten(v.$gris, 20);
+    margin: 0;
+    font-size: 1.5rem;
+  }
+}
+.asesor {
+  &__img {
+    overflow: hidden;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+  }
+  &__slogan {
+    font-weight: v.$bold;
+    color: v.$azul-500;
+    display: block;
+    font-style: italic;
+    text-align: center;
+    font-size: 1.6rem;
+  }
+  &__nombre {
+    font-size: 1.6rem;
+    text-align: center;
+    margin: 0;
+    margin-top: 1rem;
+  }
+  &__telefono,
+  &__email {
+    margin: 0;
+    font-size: 1.5rem;
+    color: lighten(v.$gris, 10);
+    text-align: center;
+    display: block;
+    transition: all 0.3s ease;
+    &:hover {
+      color: v.$azul-400;
+    }
+  }
+  &__telefono {
+    margin-top: 1rem;
+  }
+  &__email {
+    margin-top: 0.5rem;
+  }
+
+  &__boton {
+    width: 100%;
+    display: block;
+  }
+}

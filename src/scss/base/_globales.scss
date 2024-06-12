@@ -1,0 +1,54 @@
+@use "variables" as v;
+@use "mixins" as m;
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  height: 100%;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  font-family: v.$fuente_principal;
+  font-size: 1.8rem;
+}
+a {
+  text-decoration: none;
+  color: v.$negro;
+}
+img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+.body__fijo {
+  overflow-y: hidden;
+}
+
+.swiper-container {
+  width: 100%;
+}
+
+.swiper-slide {
+  box-sizing: border-box;
+  padding: 1.5rem;
+  height: 50rem !important;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: space-around;
+  &--galeria {
+    height: 60rem !important;
+    padding: 0 !important;
+  }
+}
+.swiper {
+  padding: 1rem !important;
+  &--galeria {
+    padding: 0 !important;
+  }
+}

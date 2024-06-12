@@ -1,0 +1,41 @@
+@use "base/variables" as v;
+@use "base/mixins" as m;
+
+.header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(../img/header.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 5rem;
+  min-height: 60rem;
+  background-position: center;
+
+  &__contenido {
+    display: flex;
+    flex-direction: column;
+    height: calc(60rem - 5rem);
+    justify-content: center;
+    @include m.desktop {
+      justify-content: space-between;
+    }
+  }
+  &__slogan {
+    display: none;
+    @include m.desktop {
+      display: block;
+      text-align: center;
+      margin-bottom: 5rem;
+      h2 {
+        color: v.$azul-100;
+        font-size: 4rem;
+        margin: 0;
+        line-height: 1.5;
+      }
+      p {
+        color: v.$azul-100;
+        font-size: 2rem;
+        margin: 0;
+      }
+    }
+  }
+}

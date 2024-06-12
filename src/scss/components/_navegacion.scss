@@ -1,0 +1,70 @@
+@use "base/variables" as v;
+@use "base/mixins" as m;
+
+.navegacion {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  align-items: center;
+  background-color: v.$azul-600;
+
+  @include m.desktop {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  &--inicio {
+    background-color: unset;
+  }
+  &__logo h1 {
+    color: v.$blanco;
+    font-weight: v.$regular;
+    text-transform: uppercase;
+    font-style: 4.2rem;
+    text-align: center;
+    @include m.tablet {
+      text-align: left;
+    }
+  }
+
+  &__enlaces {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 1rem;
+
+    &::before,
+    &::after {
+      content: "";
+      width: 50%;
+      height: 2px;
+      display: block;
+      background-color: v.$azul-500;
+    }
+    @include m.desktop {
+      flex-direction: row;
+      width: auto;
+      &::before,
+      &::after {
+        display: none;
+      }
+    }
+  }
+
+  &__enlace {
+    color: v.$azul-100;
+    transition: all 0.3s ease;
+    padding: 1rem;
+    transition: all 0.3s ease;
+    border-radius: 1rem;
+    &:hover, &--actual {
+      color: v.$azul-400;
+    }
+    @include m.desktop {
+      &:hover,&--actual {
+        color: v.$azul-100;
+        background-color: v.$azul-500;
+      }
+    }
+  }
+}

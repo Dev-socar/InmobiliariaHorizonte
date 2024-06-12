@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inmobiliaria Horizonte</title>
+
+    <!--Tipografia-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
+    <!--Iconos-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!--Estilos propios-->
+    <link rel="stylesheet" href="build/css/app.css">
+</head>
+
+<body>
+
+    <a class="whatsapp__enlace" href="#"><i class="fa-brands fa-whatsapp"></i></a>
+
+    <header class="header">
+        <div class=" contenedor header__contenido">
+            <nav class="navegacion navegacion--inicio">
+                <div class="navegacion__logo">
+                    <a href="index.html">
+                        <h1>Inmobiliaria Horizonte</h1>
+                    </a>
+                </div>
+                <div class="navegacion__enlaces">
+                    <a href="venta.html" class="navegacion__enlace">Venta</a>
+                    <a href="renta.html" class="navegacion__enlace">Renta</a>
+                    <a href="contacto.html" class="navegacion__enlace">Contactanos</a>
+                    
+                    <a href="aviso-privacidad.html" class="navegacion__enlace">Aviso de Privacidad</a>
+                </div>
+            </nav>
+
+            <div class="header__slogan">
+                <h2>Encuentra el Lugar de Tus Sueños</h2>
+                <p>Encontraras las mejores propiedades con nosotros</p>
+            </div>
+        </div>
+    </header>
+
+    <section class="pasos">
+        <h2 class="pasos__titulo">Compra la vivienda que siempre haz deseado</h2>
+        <div class="pasos__grid">
+            <div class="paso">
+                <span class="paso__icono"><i class="fa-solid fa-magnifying-glass"></i></span>
+                <h3 class="paso__titulo">Investiga</h3>
+                <p class="paso__texto">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti dolorum qui
+                    aliquid voluptate mollitia eum nihil corrupti alias quae neque provident</p>
+            </div>
+            <div class="paso">
+                <span class="paso__icono"><i class="fa-solid fa-phone-volume"></i></span>
+                <h3 class="paso__titulo">Contacta</h3>
+                <p class="paso__texto">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti dolorum qui
+                    aliquid voluptate mollitia eum nihil corrupti alias quae neque provident</p>
+            </div>
+            <div class="paso">
+                <span class="paso__icono"><i class="fa-solid fa-hand-holding-dollar"></i></span>
+                <h3 class="paso__titulo">Compra</h3>
+                <p class="paso__texto">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti dolorum qui
+                    aliquid voluptate mollitia eum nihil corrupti alias quae neque provident</p>
+            </div>
+            <div class="paso">
+                <span class="paso__icono"><i class="fa-regular fa-face-smile-beam"></i></span>
+                <h3 class="paso__titulo">Disfruta</h3>
+                <p class="paso__texto">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti dolorum qui
+                    aliquid voluptate mollitia eum nihil corrupti alias quae neque provident</p>
+            </div>
+        </div>
+    </section>
+
+    <main class="destacados">
+        <div class="destacados__contenedor">
+            <h2 class="destacados__titulo">Propiedades Destacadas</h2>
+            <section class="venta">
+                <h2 class="venta__titulo">Propiedades en Venta</h2>
+                <div class="venta__listado slider swiper">
+                    <div class="swiper-wrapper" id="venta"></div>
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+                </div>
+            </section>
+
+            <section class="renta">
+                <h2 class="renta__titulo">Propiedades en Renta</h2>
+                <div class="renta__listado slider swiper">
+                    <div class="swiper-wrapper" id="renta"></div>
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+                </div>
+
+            </section>
+        </div>
+    </main>
+
+    <section class="galeria">
+        <h2 class="galeria__titulo">Algunas de Nuestras Propiedades</h2>
+        <div class="galeria__grid" id="galeria-propiedades">
+            <div class="galeria__imagen">
+                <img loading="lazy" src="build/img/galeria-01.webp" alt="Imagen de la galeria" class="galeria__imagen">
+            </div>
+            <div class="galeria__imagen">
+                <img loading="lazy" src="build/img/galeria-02.webp" alt="Imagen de la galeria" class="galeria__imagen">
+            </div>
+            <div class="galeria__imagen">
+                <img loading="lazy" src="build/img/galeria-03.webp" alt="Imagen de la galeria" class="galeria__imagen">
+            </div>
+            <div class="galeria__imagen">
+                <img loading="lazy" src="build/img/galeria-04.webp" alt="Imagen de la galeria" class="galeria__imagen">
+            </div>
+            <div class="galeria__imagen">
+                <img loading="lazy" src="build/img/galeria-05.webp" alt="Imagen de la galeria" class="galeria__imagen">
+            </div>
+            <div class="galeria__imagen">
+                <img loading="lazy" src="build/img/galeria-06.webp" alt="Imagen de la galeria" class="galeria__imagen">
+            </div>
+            <div class="galeria__imagen">
+                <img loading="lazy" src="build/img/galeria-07.webp" alt="Imagen de la galeria" class="galeria__imagen">
+            </div>
+            <div class="galeria__imagen">
+                <img loading="lazy" src="build/img/galeria-08.webp" alt="Imagen de la galeria" class="galeria__imagen">
+            </div>
+            <div class="galeria__imagen">
+                <img loading="lazy" src="build/img/galeria-09.webp" alt="Imagen de la galeria" class="galeria__imagen">
+            </div>
+            <div class="galeria__imagen">
+                <img loading="lazy" src="build/img/galeria-10.webp" alt="Imagen de la galeria" class="galeria__imagen">
+            </div>
+            <div class="galeria__imagen">
+                <img loading="lazy" src="build/img/galeria-11.webp" alt="Imagen de la galeria" class="galeria__imagen">
+            </div>
+            <div class="galeria__imagen">
+                <img loading="lazy" src="build/img/galeria-12.webp" alt="Imagen de la galeria" class="galeria__imagen">
+            </div>
+        </div>
+
+    </section>
+
+    <section class="banner">
+        <div class="banner__grid">
+            <div class="banner__textos">
+                <h3 class="banner__titulo">Deseas comprar o rentar inmubles con nosotros?</h3>
+                <p class="banner__texto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste nemo, doloremque
+                    eos voluptates aspernatur necessitatibus quis ducimus est amet. Quidem debitis natus quos deleniti
+                    dolorem inventore quo, distinctio quaerat unde.</p>
+                <p class="banner__texto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste nemo, doloremque
+                    eos voluptates aspernatur necessitatibus quis ducimus est amet. Quidem debitis natus quos deleniti
+                    dolorem inventore quo, distinctio quaerat unde.</p>
+            </div>
+            <div class="banner__imagen"></div>
+        </div>
+    </section>
+
+
+    <footer class="footer">
+        <nav class="navegacion">
+            <div class="navegacion__logo">
+                <a href="index.html">
+                    <h1>Inmobiliaria Horizonte</h1>
+                </a>
+            </div>
+            <div class="navegacion__enlaces">
+                <a href="venta.html" class="navegacion__enlace">Venta</a>
+                <a href="renta.html" class="navegacion__enlace">Renta</a>
+                <a href="contacto.html" class="navegacion__enlace">Contactanos</a>
+                
+                <a href="aviso-privacidad.html" class="navegacion__enlace">Aviso de Privacidad</a>
+            </div>
+        </nav>
+        <div class="footer__derechos">
+            <p class="footer__copyrigh">&copy; 2024 Todos los derechos reservados Inmobiliaria Horizonte</p>
+            <div class="footer__sociales">
+                <a class="footer__sociales-enlace" href="#"><i class="fa-brands fa-facebook"></i></a>
+                <a class="footer__sociales-enlace" href="#"><i class="fa-brands fa-instagram"></i></a>
+                <a class="footer__sociales-enlace" href="#"><i class="fa-brands fa-youtube"></i></a>
+                <a class="footer__sociales-enlace" href="#"><i class="fa-brands fa-whatsapp"></i></a>
+            </div>
+        </div>
+    </footer>
+    <script src="build/js/main.min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+@use "base/variables" as v;
+@use "base/mixins" as m;
+
+.banner {
+  background-color: v.$azul-100;
+  margin-top: 5rem;
+  &__grid {
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    @include m.tablet {
+      grid-template-rows: unset;
+      grid-template-columns: repeat(2, 1fr);
+      height: 90rem;
+    }
+  }
+  &__textos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 90%;
+    @include m.tablet {
+      width: 70%;
+    }
+  }
+  &__titulo {
+    margin-bottom: 2rem;
+    text-align: center;
+    font-weight: v.$regular;
+    @include m.tablet {
+      text-align: left;
+    }
+  }
+  &__texto {
+    margin-top: 0;
+    margin-bottom: 2rem;
+    line-height: 1.5;
+    color: darken(v.$gris, 15);
+    font-size: 1.6rem;
+  }
+  &__imagen {
+    background-image: url(../img/contacto.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    @include m.tablet {
+      background-position: center left;
+    }
+  }
+}

@@ -1,0 +1,23 @@
+@use "base/variables" as v;
+@use "base/mixins" as m;
+
+.whatsapp__enlace {
+  background-color: v.$azul-500;
+  width: 6.5rem;
+  height: 6.5rem;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3.2rem;
+  color: v.$blanco;
+  position: fixed;
+  bottom: 4rem;
+  right: 4rem;
+  z-index: 999;
+  transition: all 0.3s ease;
+  &:hover {
+    transform: scale(1.05);
+    background-color: v.$azul-600;
+  }
+}

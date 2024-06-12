@@ -1,0 +1,58 @@
+@use "base/variables" as v;
+@use "base/mixins" as m;
+
+.formulario {
+  width: 100%;
+  margin-top: 1rem;
+  &__campo {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 2.5rem;
+    &--mb-0 {
+      margin-bottom: .5rem;
+    }
+  }
+
+  &__submit {
+    border: none;
+    background-color: v.$azul-500;
+    padding: 1rem 2rem;
+    color: v.$blanco;
+    border-radius: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-bottom: 5rem;
+    display: inline-block;
+    width: 100%;
+    &:hover {
+      background-color: v.$azul-600;
+    }
+    @include m.tablet {
+      margin-bottom: 0;
+      width: min-content;
+    }
+    &--w-100 {
+      width: 100%;
+      background-color: v.$azul-400;
+      color: v.$blanco;
+      margin-top: 0;
+    }
+  }
+  & input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="number"],
+  select,
+  textarea {
+    border: none;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: v.$azul-100;
+    outline: none;
+  }
+  textarea {
+    resize: none;
+    height: 20rem;
+  }
+}

@@ -1,0 +1,81 @@
+@use "base/variables" as v;
+@use "base/mixins" as m;
+
+.propiedad {
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  background-color: v.$blanco;
+
+  &__img {
+    height: 20rem;
+  }
+  &__informacion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  &__titulo {
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    width: 100%;
+    font-weight: v.$delgada;
+    text-transform: uppercase;
+  }
+  &__tipo,
+  &__year,
+  &__precio {
+    margin: 0 0 1rem 0;
+    width: 100%;
+    text-align: left;
+    font-size: 1.6rem;
+    color: v.$gris;
+  }
+  &__precio {
+    font-size: 2.5rem;
+    font-weight: v.$bold;
+    color: lighten(v.$azul-600, 20);
+    &--no-definido {
+      color: lighten(v.$gris, 20);
+    }
+  }
+  &__detalles {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 2.5rem;
+    & > .propiedad__detalle {
+      color: v.$gris;
+    }
+  }
+  &__enlace {
+    display: block;
+    margin-top: 1.5rem;
+    background-color: v.$azul-500;
+    color: v.$azul-100;
+    width: 100%;
+    padding: 1rem 2rem;
+    text-align: center;
+    border-radius: 1rem;
+    border: 1px solid v.$azul-500;
+    transition: all 0.3s ease;
+    &:hover {
+      background-color: v.$azul-600;
+    }
+  }
+}
+
+.venta,
+.renta {
+  &__titulo {
+    margin: 0;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-weight: v.$delgada;
+  }
+}
+.renta {
+  margin-top: 5rem;
+}

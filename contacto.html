@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IH | Contactanos</title>
+
+    <!--Tipografia-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
+    <!--Swiper-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+    <!--Iconos-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!--Estilos propios-->
+    <link rel="stylesheet" href="build/css/app.css">
+</head>
+
+<body>
+
+    <a class="whatsapp__enlace" href="#"><i class="fa-brands fa-whatsapp"></i></a>
+
+    <nav class="navegacion">
+        <div class="navegacion__logo">
+            <a href="index.html">
+                <h1>Inmobiliaria Horizonte</h1>
+            </a>
+        </div>
+        <div class="navegacion__enlaces">
+            <a href="venta.html" class="navegacion__enlace">Venta</a>
+            <a href="renta.html" class="navegacion__enlace">Renta</a>
+            <a href="contacto.html" class="navegacion__enlace navegacion__enlace--actual">Contactanos</a>
+            
+            <a href="aviso-privacidad.html" class="navegacion__enlace">Aviso de Privacidad</a>
+        </div>
+    </nav>
+
+    <main class="contacto">
+        <div class="contacto__grid">
+            <div class="contacto__imagen"></div>
+            <div class="contacto__formulario">
+                <h2 class="contacto__titulo">Contactanos <span>|</span> Inmobiliaria Horizonte</h2>
+                <p class="contacto__instrucciones">Llena este formulario y un miembro de nuestro equipo te contactará a
+                    la brevedad.</p>
+                <form class="formulario">
+                    <div class="formulario__campo">
+                        <label for="nombre">Tu Nombre</label>
+                        <input type="text" id="nombre" placeholder="Ej. Omar Solis">
+                    </div>
+                    <div class="formulario__campo">
+                        <label for="email">Tu Email</label>
+                        <input type="email" id="email" placeholder="Ej. omarsolis@dominio.com">
+                    </div>
+                    <div class="formulario__campo">
+                        <label for="telefono">Tu Telefono</label>
+                        <input type="tel" id="telefono" placeholder="Ej. 1234567890" maxlength="10">
+                    </div>
+                    <div class="formulario__campo">
+                        <label for="mensaje">Tu Mensaje</label>
+                        <textarea id="mensaje" placeholder="Mensaje"></textarea>
+                    </div>
+                    <button type="submit" id="formulario-contacto" class="formulario__submit">Enviar</button>
+                </form>
+            </div>
+
+        </div>
+    </main>
+
+
+    <footer class="footer">
+        <nav class="navegacion">
+            <div class="navegacion__logo">
+                <a href="index.html">
+                    <h1>Inmobiliaria Horizonte</h1>
+                </a>
+            </div>
+            <div class="navegacion__enlaces">
+                <a href="venta.html" class="navegacion__enlace">Venta</a>
+                <a href="renta.html" class="navegacion__enlace">Renta</a>
+                <a href="contacto.html" class="navegacion__enlace navegacion__enlace--actual">Contactanos</a>
+                
+                <a href="aviso-privacidad.html" class="navegacion__enlace">Aviso de Privacidad</a>
+            </div>
+        </nav>
+        <div class="footer__derechos">
+            <p class="footer__copyrigh">&copy; 2024 Todos los derechos reservados Inmobiliaria Horizonte</p>
+            <div class="footer__sociales">
+                <a class="footer__sociales-enlace" href="#"><i class="fa-brands fa-facebook"></i></a>
+                <a class="footer__sociales-enlace" href="#"><i class="fa-brands fa-instagram"></i></a>
+                <a class="footer__sociales-enlace" href="#"><i class="fa-brands fa-youtube"></i></a>
+                <a class="footer__sociales-enlace" href="#"><i class="fa-brands fa-whatsapp"></i></a>
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+</html>
